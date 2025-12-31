@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.426">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.426" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.426" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.426" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.426/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.426/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.426/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.426/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.426</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_426">
+        <akn:num>135.426</akn:num>
+        <akn:heading>Section 135.426</akn:heading>
+        <akn:content>
+          <akn:p>135.426.
+Unused balance of tax credit — director to issue a new certificate for unused balance. —
+The Missouri department of revenue or secretary of state, whichever is applicable, shall accept a certificate of tax credit in lieu of other payment in such amount as is equal to the lesser of the amount of the tax or the remaining unused amount of the credit as indicated on the certificate of tax credit; and shall indicate on the certificate of tax credit the amount of tax thereby paid, the date of such payment, and the remainder of the unused credit available to the taxpayer after such payment.  The certificate of the credit shall be returned to the director of the department of economic development.  The director of the department of economic development shall issue a new certificate to the property owner for any unused balance.
+­­--------
+(L. 1992 S.B. 661 &amp; 620 § 13)
+Effective 1-01-93</akn:p>
+        </akn:content>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

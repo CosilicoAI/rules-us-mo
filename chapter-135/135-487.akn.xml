@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.487">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.487" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.487" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.487" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.487/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.487/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.487/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.487/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.487</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_487">
+        <akn:num>135.487</akn:num>
+        <akn:heading>in the order the applications are received</akn:heading>
+        <akn:subsection eId="sec_135_487__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_487__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  To obtain any credit allowed pursuant to sections
+135.475 to 135.487
+, a taxpayer shall submit to the department, for preliminary approval, an application for tax credit.  The director shall, upon final approval of an application and presentation of acceptable proof of substantial completion of construction, issue the taxpayer a certificate of tax credit.  The director shall issue all credits allowed pursuant to sections
+135.475 to 135.487
+in the order the applications are received.  In the case of a taxpayer other than an owner-occupant, the director shall not delay the issuance of a tax credit pursuant to sections
+135.475 to 135.487
+until the sale of a residence at market rate for owner-occupancy.  A
+taxpayer, taxpayer
+other than an owner-occupant who receives a certificate of tax credit pursuant to sections
+135.475 to 135.487
+shall, within thirty days of the date of the sale of a residence, furnish to the director satisfactory proof that such residence was sold at market rate for owner-occupancy.  If the director reasonably determines that a residence was not in good faith intended for long-term owner occupancy, the director make revoke any tax credits issued and seek recovery of any tax credits issued pursuant to section
+620.017
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_487__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_487__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  The department may cooperate with a municipality or a county in which a project is located to help identify the location of the project, the type and eligibility of the project, the estimated cost of the project and the completion date of the project.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_487__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_487__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  The department may promulgate such rules or regulations or issue administrative guidelines as are necessary to administer the provisions of sections
+135.475 to 135.487
+.  No rule or portion of a rule promulgated pursuant to the authority of this section shall become effective unless it has been promulgated pursuant to the provisions of
+chapter 536
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_487__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_487__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The department shall conduct annually a comprehensive program evaluation illustrating where the tax credits allowed pursuant to sections
+135.475 to 135.487
+are being utilized, explaining the economic impact of such program and making recommendations on appropriate program modifications to ensure the program's success.
+­­--------
+(L. 1999 S.B. 20 § 5)
+Effective 1-01-00
+CROSS REFERENCE:
+Tax Credit Accountability Act of 2004, additional requirements, 135.800 to 135.830</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-136.035">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.035" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.035" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="136.035" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.035/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.035/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.035/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.035/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=136.035</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_136_035">
+        <akn:num>136.035</akn:num>
+        <akn:heading>Section 136.035</akn:heading>
+        <akn:subsection eId="sec_136_035__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_035__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  The director of revenue from funds appropriated shall refund any overpayment or erroneous payment of any tax which the state is authorized to collect.  The general assembly shall appropriate and set aside funds sufficient for the use of the director of revenue to make refunds authorized by this section or by final judgment of court.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_035__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_035__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  The director of revenue shall refund any overpayment or erroneous payment of any tax on intangible personal property and the amount refunded shall be charged against the next apportionment to the political subdivision which was the residence or situs of the taxpayer at the time the tax was paid.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_035__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_035__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  No refund shall be made by the director of revenue unless a claim for refund has been filed with him within two years from the date of payment.  Every claim must be in writing and signed by the applicant, and must state the specific grounds upon which the claim is founded.
+­­--------
+(L. 1951 p. 866 § 1, A.L. 2001 H.B. 816)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

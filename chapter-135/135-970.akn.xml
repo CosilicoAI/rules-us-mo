@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.970">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.970" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.970" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.970" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.970/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.970/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.970/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.970/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.970</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_970">
+        <akn:num>135.970</akn:num>
+        <akn:heading>Section 135.970</akn:heading>
+        <akn:content>
+          <akn:p>135.970.
+Rulemaking authority.  —
+The department may adopt such rules, statements of policy, procedures, forms, and guidelines as may be necessary to carry out the provisions of sections
+135.950 to 135.970
+.  Any rule or portion of a rule, as that term is defined in section
+536.010
+, that is created under the authority delegated in this section shall become effective only if it complies with and is subject to all of the provisions of
+chapter 536
+and, if applicable, section
+536.028
+.  This section and
+chapter 536
+are nonseverable and if any of the powers vested with the general assembly pursuant to
+chapter 536
+to review, to delay the effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of rulemaking authority and any rule proposed or adopted after August 28, 2004, shall be invalid and void.
+­­--------
+(L. 2004 S.B. 1155 § 135.1075)</akn:p>
+        </akn:content>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

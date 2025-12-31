@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.805">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.805" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.805" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.805" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.805/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.805/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.805/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.805/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.805</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_805">
+        <akn:num>135.805</akn:num>
+        <akn:heading>Section 135.805</akn:heading>
+        <akn:subsection eId="sec_135_805__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  A recipient of any tax credit program, except domestic and social tax credits or financial and insurance tax credits, shall on June thirtieth of each year, for a period of three years following the issuance of the tax credits, provide to the administering agency the actual number of jobs directly created that year as of June thirtieth as a result of the tax credits, separated by part-time permanent and full-time permanent for each month of the preceding twelve-month period.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  A recipient of a community development tax credit shall on June thirtieth of each year, for a period of three years following issuance of tax credits, provide to the administering agency information confirming the title and location of the corresponding project, the estimated and actual project cost, the estimated and actual time period for completion of the project, and all geographic areas impacted by the project.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  A recipient of a redevelopment tax credit shall on June thirtieth of each year, for a period of three years following issuance of tax credits, provide to the administering agency information confirming whether the property is used for residential, commercial, or governmental purposes, and the projected and actual project cost, labor cost, and date of completion.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  A recipient of a business recruitment tax credit shall on June thirtieth of each year, for a period of three years following issuance of tax credits, provide to the administering agency information confirming the category of business by size, the address of the business headquarters and all offices located within this state, the number of employees at the time of the annual update, an updated estimate of the number of employees projected to increase as a result of the completion of the project, and the estimated and actual project cost.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  A recipient of a training and educational tax credit shall on June thirtieth of each year, for a period of three years following issuance of tax credits, provide to the administering agency information confirming the name and address of the educational institution used, the average salary of workers served as of such annual update, the estimated and actual project cost, and the number of employees and number of students served as of such annual update.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  A recipient of a housing tax credit shall on June thirtieth of each year, for a period of three years following issuance of tax credits, provide to the administering agency information confirming the address of the property, the fair market value of the property, as defined in subsection 6 of section
+135.802
+, and the projected and actual labor and project costs and completion date of the project.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  A recipient of an entrepreneurial tax credit shall on June thirtieth of each year, for a period of three years following issuance of tax credits, provide to the administering agency information confirming the amount of investment and the names of the project, fund, and research project.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_8">
+          <akn:num>(8)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>8.  A recipient of an agricultural tax credit shall on June thirtieth of each year, for a period of three years following issuance of tax credits, provide to the administering agency information confirming the type of agricultural commodity, the amount of contribution, the type of equipment purchased, and the name and description of the facility, except that if the agricultural credit is issued as a result of a producer member investing in a new generation processing entity or new generation cooperative then the new generation processing entity or new generation cooperative, and not the recipient, shall on June thirtieth of each year, for a period of three years following issuance of tax credits, provide to the administering agency information confirming the type of agricultural commodity, the amount of contribution, the type of equipment purchased, and the name and description of the facility.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_9">
+          <akn:num>(9)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_9">
+          <akn:num>(9)</akn:num>
+          <akn:content>
+            <akn:p>9.  A recipient of an environmental tax credit shall on June thirtieth of each year, for a period of three years following issuance of tax credits, provide to the administering agency information detailing any change to the type of equipment purchased, if applicable, and any change to any environmental impact statement, if such statement is required by state or federal law.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_10">
+          <akn:num>(10)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_10">
+          <akn:num>(10)</akn:num>
+          <akn:content>
+            <akn:p>10.  No person or entity shall be required to make an annual report until at least one month after the credit issuance date.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_11">
+          <akn:num>(11)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_11">
+          <akn:num>(11)</akn:num>
+          <akn:content>
+            <akn:p>11.  Where the sole requirement for receiving a tax credit in the enabling legislation of any tax credit is an obligatory assessment upon a taxpayer or a monetary contribution to a particular group or entity, the reporting requirements provided in this section shall apply to the recipient of such assessment or contribution and shall not apply to the assessed nor the contributor.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_12">
+          <akn:num>(12)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_12">
+          <akn:num>(12)</akn:num>
+          <akn:content>
+            <akn:p>12.  Where the enacting statutes of a particular tax credit program or the rules of a particular administering agency require reporting of information that includes the information required in sections
+135.802 to 135.810
+, upon reporting of the required information, the applicant shall be deemed to be in compliance with the requirements of sections
+135.802 to 135.810
+.  The administering agency shall notify in writing the department of economic development of the administering agency's status as custodian of any particular tax credit program and that all records pertaining to the program are available at the administering agency's office or electronically for review by the department of economic development.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_13">
+          <akn:num>(13)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_13">
+          <akn:num>(13)</akn:num>
+          <akn:content>
+            <akn:p>13.  The provisions of subsections 1 to 10 of this section shall apply beginning on June 30, 2005.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_14">
+          <akn:num>(14)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_14">
+          <akn:num>(14)</akn:num>
+          <akn:content>
+            <akn:p>14.  Notwithstanding provisions of law to the contrary, every agency of this state charged with administering a tax credit program authorized under the laws of this state shall make available for public inspection the name of each tax credit recipient and the amount of tax credits issued to each such recipient.  An administering agency may satisfy this requirement by making such information available to the public through the department of economic development's website or the Missouri accountability portal.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_15">
+          <akn:num>(15)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_15">
+          <akn:num>(15)</akn:num>
+          <akn:content>
+            <akn:p>15.  The department of economic development shall make all information provided under the provisions of this section available for public inspection on the department's website and the Missouri accountability portal.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_16">
+          <akn:num>(16)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_805__subsec_16">
+          <akn:num>(16)</akn:num>
+          <akn:content>
+            <akn:p>16.  The administering agency of any tax credit program for which reporting requirements are required under the provisions of subsection 1 of this section shall publish guidelines and may promulgate rules to implement the provisions of such subsection.  Any rule or portion of a rule, as that term is defined in section
+536.010
+, that is created under the authority delegated in this section shall become effective only if it complies with and is subject to all of the provisions of
+chapter 536
+and, if applicable, section
+536.028
+.  This section and
+chapter 536
+are nonseverable and if any of the powers vested with the general assembly pursuant to
+chapter 536
+to review, to delay the effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of rulemaking authority and any rule proposed or adopted after August 28, 2009, shall be invalid and void.
+­­--------
+(L. 2004 S.B. 1099, A.L. 2008 H.B. 2058 merged with S.B. 931, A.L. 2009 H.B. 191, A.L. 2022 H.B. 2400)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

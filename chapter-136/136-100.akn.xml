@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-136.100">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.100" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.100" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="136.100" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.100/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.100/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.100/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.100/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=136.100</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_136_100">
+        <akn:num>136.100</akn:num>
+        <akn:heading>Section 136.100</akn:heading>
+        <akn:subsection eId="sec_136_100__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_100__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  The director of revenue may invoke the aid of the circuit court of any county of the state of Missouri, or of the city of St. Louis, having jurisdiction over such witness in requiring the attendance and testimony of such witness and the production of books, records and papers.  The circuit court of the city of St. Louis or the circuit court of any county of the state of Missouri within which such witness may be served may, in case of contumacy or refusal to obey a subpoena, issue an order requiring such person to appear before the director of revenue, or his deputy, and to produce books, records and papers if so ordered and any evidence touching the matter in question within the scope of authority of the state director of revenue; and any failure to obey such order of the court may be punished by such court as a contempt thereof.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_100__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_100__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  No person shall be excused from testifying or producing any books, papers, records or documents in any investigation, or upon any hearing in which a subpoena shall be issued by the director of revenue, upon the ground that the testimony or evidence, documentary or otherwise, may tend to incriminate or subject him to a criminal penalty; but no person shall be prosecuted or subjected to any criminal penalty for or on account of any transaction made or thing concerning which he may be compelled to testify or produce evidence, documentary or otherwise, before the director of revenue or his agent.  No person so testifying shall be exempt from prosecution and punishment for perjury committed in so testifying.
+­­--------
+(L. 1945 p. 1428 § 19)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

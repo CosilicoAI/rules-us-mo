@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.270">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.270" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.270" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.270" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.270/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.270/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.270/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.270/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.270</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_270">
+        <akn:num>135.270</akn:num>
+        <akn:heading>Section 135.270</akn:heading>
+        <akn:subsection eId="sec_135_270__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_270__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  Any automobile manufacturer or assembler, as defined by standard industrial classification code (SIC) number 3711, that is located within a state enterprise zone established pursuant to sections
+135.200 to 135.256
+may make an application to the department of economic development for a strategic initiative investment income tax refund.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_270__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_270__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  Such refunds shall be approved only if the total amount of tax credits certified for the automobile manufacturer or assembler in the four calendar years immediately preceding 1998 exceeded the company's total Missouri tax on taxable income in those years by an amount equal to at least twenty million dollars.  In such cases, a portion of tax credits earned shall constitute an overpayment of taxes and may be refunded to the taxpayer in the manner authorized by this section as a strategic initiative income tax fund.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_270__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_270__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  The department shall evaluate and may approve such applications based upon the importance of the manufacturer to the economy of Missouri, the company's investment of at least one hundred million dollars in new facilities or equipment, and the number of jobs to be created or retained as a result of new investment.  Such applications may be approved annually for no longer than five successive years.  The maximum amount of refund that may be awarded to the manufacturer or assembler shall not exceed two million dollars per year.
+­­--------
+(L. 1998 S.B. 827 § 1)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

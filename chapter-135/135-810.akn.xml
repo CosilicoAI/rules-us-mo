@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.810">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.810" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.810" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.810" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.810/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.810/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.810/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.810/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.810</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_810">
+        <akn:num>135.810</akn:num>
+        <akn:heading>Section 135.810</akn:heading>
+        <akn:subsection eId="sec_135_810__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_810__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  After credits have been issued, any failure to meet the annual reporting requirements established in section
+135.805
+or any determination of fraud in the application or reporting process shall result in penalties as follows:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_810__subsec_1__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Failure to file the first annual report due under section
+135.805
+for more than three months shall result in a penalty equal to one percent of the value of the credits issued for each month of delinquency, provided such penalty shall not exceed a maximum of ten percent of the value of the credits issued;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_810__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Failure to file the second or third annual reports due under section
+135.805
+for more than three months shall result in a penalty equal to one and one-half percent of the value of the credits issued for each month of delinquency up to a maximum of twenty percent, per report, of the value of the credits issued;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_810__subsec_1__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Fraud in the application or reporting process shall result in a penalty equal to two hundred percent of the credits issued.  No recipient shall be deemed to have committed fraud in the application or reporting process for any credit unless such conclusion has been reached by the administrative hearing commission.  The department of revenue, the department of economic development, or the administering agency may, by filing a complaint, submit to the administrative hearing commission the question of whether fraud in the application or reporting process for any credit has occurred.  The burden of proof shall be on the governmental agency in such disputes.  The issue shall be decided by the administrative hearing commission under the same procedural and evidentiary rules as ordinary contested cases before it.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_810__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_810__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  Thirty days after the annual report is past due, the administering agency shall send notice by registered or certified mail to the last known address of the person or entity obligated to complete the annual reporting informing such person or entity of the past-due annual report and describing in detail the pending penalties and their respective deadlines.  Three months after the annual report is past due, the administering agency shall notify the department of revenue of any recipient subject to penalties.  The payment of a penalty under this section shall be due as of the filing date of the recipient's next income tax return.  If the recipient is not required to file an income tax return, the recipient's liability for penalties shall be due as of the next April fifteenth.  The director of the department of revenue shall prepare forms and promulgate rules to allow for the reporting and satisfaction of liability for such penalties, and, for valuable consideration, may enter into agreements to compromise or abate some or all of the penalty amount.  The director of the department of revenue shall offset any credits claimed on a contemporaneously filed tax return against an outstanding penalty before applying such credits to the tax year against which they were originally claimed.  Any nonpayment of liability for penalties by the date due under this subsection shall be subject to the same provisions of law as a liability for unpaid income taxes, including underpayment interest provisions but excluding income tax penalty and addition to tax provisions.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_810__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_810__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  Penalties shall remain the liability of the person or entity obligated to complete the annual reporting, without regard to any transfer of the credits.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_810__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_810__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  Any person or entity obligated to complete the annual reporting requirements provided in section
+135.805
+shall provide the proper administering agency with notice of change of address when a change of address occurs.  The administering agency shall notify the department of revenue and the department of economic development of such change of address.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_810__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_810__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  An administering agency may promulgate rules in order to implement the provisions of this section.  Any rule or portion of a rule, as that term is defined in section
+536.010
+, that is created under the authority delegated in this section shall become effective only if it complies with and is subject to all of the provisions of
+chapter 536
+and, if applicable, section
+536.028
+.  This section and
+chapter 536
+are nonseverable and if any of the powers vested with the general assembly pursuant to
+chapter 536
+to review, to delay the effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of rulemaking authority and any rule proposed or adopted after August 28, 2004, shall be invalid and void.
+­­--------
+(L. 2004 S.B. 1099, A.L. 2022 H.B. 2400)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.679">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.679" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.679" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.679" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.679/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.679/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.679/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.679/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.679</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_679">
+        <akn:num>135.679</akn:num>
+        <akn:heading>Section 135.679</akn:heading>
+        <akn:subsection eId="sec_135_679__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  This section shall be known and may be cited as the "Qualified Beef Tax Credit Act".</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  As used in this section, the following terms mean:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_679__subsec_2__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Agricultural property"
+, any real and personal property, including but not limited to buildings, structures, improvements, equipment, and livestock, that is used in or is to be used in this state by residents of this state for:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_679__subsec_2__subsec_1__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>The operation of a farm or ranch; and</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_679__subsec_2__subsec_1__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>Grazing, feeding, or the care of livestock;</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_679__subsec_2__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Authority"
+, the agricultural and small business development authority established in
+chapter 348
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_679__subsec_2__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Backgrounded"
+, any additional weight at the time of the first qualifying sale, before being finished, above the established baseline weight;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_679__subsec_2__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Baseline weight"
+, the average weight in the immediate past two years of all beef animals sold that are thirty months of age or younger, categorized by sex.  Baseline weight for qualified beef animals that are physically out-of-state but whose ownership is retained by a resident of this state shall be established by the average transfer weight in the immediate past two years of all beef animals that are thirty months of age or younger and that are transferred out-of-state but whose ownership is retained by a resident of this state, categorized by sex.  The established baseline weight shall be effective for a period of three years.  If the taxpayer is a qualifying beef animal producer with fewer than two years of production, the baseline weight shall be established by the available average weight in the immediate past year of all beef animals sold that are thirty months of age or younger, categorized by sex.  If the qualifying beef animal producer has no previous production, the baseline weight shall be established by the authority;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_679__subsec_2__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Finished"
+, the period from backgrounded to harvest;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_679__subsec_2__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Qualifying beef animal"
+, any beef animal that is certified by the authority, that was born in this state after August 28, 2008, that was raised and backgrounded or finished in this state by the taxpayer, excluding any beef animal more than thirty months of age as verified by certified written birth records;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_679__subsec_2__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Qualifying sale"
+, the first time a qualifying beef animal is sold in this state after the qualifying beef animal is backgrounded, and a subsequent sale if the weight of the qualifying beef animal at the time of the subsequent sale is greater than the weight of the qualifying beef animal at the time of the first qualifying sale of such beef animal;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_679__subsec_2__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>"Tax credit"
+, a credit against the tax otherwise due under
+chapter 143
+, excluding withholding tax imposed by sections
+143.191 to 143.265
+, or otherwise due under
+chapter 147
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_679__subsec_2__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>"Taxpayer"
+, any individual or entity who:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_679__subsec_2__subsec_9__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>Is subject to the tax imposed in
+chapter 143
+, excluding withholding tax imposed by sections
+143.191 to 143.265
+, or the tax imposed in
+chapter 147
+;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_679__subsec_2__subsec_9__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>In the case of an individual, is a resident of this state as verified by a 911 address or in the absence of a 911 system, a physical address; and</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_679__subsec_2__subsec_9__subsec_c">
+              <akn:num>(c)</akn:num>
+              <akn:content>
+                <akn:p>Owns or rents agricultural property and principal place of business is located in this state.</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_679__subsec_3__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>For all tax years beginning on or after January 1, 2009, but ending on or before December 31, 2021, a taxpayer shall be allowed a tax credit for the first qualifying sale and for a subsequent qualifying sale of all qualifying beef animals.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_679__subsec_3__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The tax credit amount for the first qualifying sale shall be ten cents per pound for qualifying sale weights under six hundred pounds and twenty-five cents per pound for qualifying sale weights of six hundred pounds or greater, shall be based on the backgrounded weight of all qualifying beef animals at the time of the first qualifying sale, and shall be calculated as follows:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_679__subsec_3__subsec_2__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>If the qualifying sale weight is under six hundred pounds, the qualifying sale weight minus the baseline weight multiplied by ten cents, as long as the qualifying sale weight is equal to or greater than one hundred pounds above the baseline weight; or</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_679__subsec_3__subsec_2__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>If the qualifying sale weight is six hundred pounds or greater, the qualifying sale weight minus the baseline weight multiplied by twenty-five cents, as long as the qualifying sale weight is equal to or greater than one hundred pounds above the baseline weight.</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_679__subsec_3__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The tax credit amount for each subsequent qualifying sale shall be ten cents per pound for qualifying sale weights under six hundred pounds and twenty-five cents per pound for qualifying sale weights of six hundred pounds or greater, shall be based on the backgrounded weight of all qualifying beef animals at the time of the subsequent qualifying sale, and shall be calculated as follows:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_679__subsec_3__subsec_3__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>If the qualifying sale weight is under six hundred pounds, the qualifying sale weight minus the baseline weight multiplied by ten cents, as long as the qualifying sale weight is equal to or greater than one hundred pounds above the baseline weight; or</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_679__subsec_3__subsec_3__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>If the qualifying sale weight is six hundred pounds or greater, the qualifying sale weight minus the baseline weight multiplied by twenty-five cents, as long as the qualifying sale weight is equal to or greater than one hundred pounds above the baseline weight.
+­­
+­
+The authority may waive no more than twenty-five percent of the one-hundred-pound weight gain requirement, but any such waiver shall be based on a disaster declaration issued by the U.S. Department of Agriculture.</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The amount of the tax credit claimed shall not exceed the amount of the taxpayer's state tax liability for the tax year for which the credit is claimed.  No tax credit claimed under this section shall be refundable.  The tax credit shall be claimed in the tax year in which the qualifying sale of the qualifying beef occurred, but any amount of credit that the taxpayer is prohibited by this section from claiming in a tax year may be carried forward to any of the taxpayer's four subsequent tax years.  The total amount of tax credits that any taxpayer may claim shall not exceed fifteen thousand dollars per year.  No taxpayer shall be allowed to claim tax credits under this section for more than three years.  The amount of tax credits that may be issued to all eligible applicants claiming tax credits authorized in this section and section
+135.686
+in a calendar year shall not exceed two million dollars.  Tax credits shall be issued on an as-received application basis until the calendar year limit is reached.  Any credits not issued in any calendar year shall expire and shall not be issued in any subsequent years.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  To claim the tax credit allowed under this section, the taxpayer shall submit to the authority an application for the tax credit on a form provided by the authority and any application fee imposed by the authority.  The application shall be filed with the authority at the end of each calendar year in which a qualified sale was made and for which a tax credit is claimed under this section.  The application shall include any certified documentation and information required by the authority.  All required information obtained by the authority shall be confidential and not disclosed except by court order, subpoena, or as otherwise provided by law.  If the taxpayer and the qualified sale meet all criteria required by this section and approval is granted by the authority, the authority shall issue a tax credit certificate in the appropriate amount.  Tax credit certificates issued under this section may be assigned, transferred, sold, or otherwise conveyed, and the new owner of the tax credit certificate shall have the same rights in the tax credit as the original taxpayer.  Whenever a tax credit certificate is assigned, transferred, sold or otherwise conveyed, a notarized endorsement shall be filed with the authority specifying the name and address of the new owner of the tax credit certificate or the value of the tax credit.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  Any information provided under this section shall be confidential information, to be shared with no one except state and federal animal health officials, except as provided in subsection 5 of this section.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  The authority shall, at least annually, submit a report to the Missouri general assembly reviewing the costs and benefits of the program established under this section.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_8">
+          <akn:num>(8)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>8.  The authority may promulgate rules to implement the provisions of this section.  Any rule or portion of a rule, as that term is defined in section
+536.010
+, that is created under the authority delegated in this section shall become effective only if it complies with and is subject to all of the provisions of
+chapter 536
+and, if applicable, section
+536.028
+.  This section and
+chapter 536
+are nonseverable and if any of the powers vested with the general assembly pursuant to
+chapter 536
+to review, to delay the effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of rulemaking authority and any rule proposed or adopted after August 28, 2007, shall be invalid and void.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_9">
+          <akn:num>(9)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_679__subsec_9">
+          <akn:num>(9)</akn:num>
+          <akn:content>
+            <akn:p>9.  This section shall not be subject to the Missouri sunset act, sections
+23.250 to 23.298
+.
+­­--------
+(L. 2007 1st Ex. Sess H.B. 1, A.L. 2016 S.B. 665)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

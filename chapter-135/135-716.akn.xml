@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.716">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.716" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.716" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.716" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.716/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.716/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.716/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.716/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.716</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_716">
+        <akn:num>135.716</akn:num>
+        <akn:heading>Section 135.716</akn:heading>
+        <akn:subsection eId="sec_135_716__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  The state treasurer shall provide a standardized format for a receipt to be issued by an educational assistance organization to a taxpayer to indicate the value of a contribution received.  The department of revenue shall require a taxpayer to provide a copy of this receipt if claiming the tax credit authorized by the program.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  The state treasurer shall provide a standardized format for educational assistance organizations to report the information required in subsection 1 of this section.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  The state treasurer or state auditor may conduct an investigation if the state treasurer possesses evidence of fraud committed by the educational assistance organization.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The state treasurer may bar an educational assistance organization from participating in the program if the state treasurer establishes that the educational assistance organization has intentionally and substantially failed to comply with the requirements of section
+135.714
+.  If the state treasurer bars an educational assistance organization from the program under this subsection, the organization shall notify affected qualified students and their parents of the decision as soon as possible after the decision is made.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  The state treasurer shall issue a report on the state of the program five years after it goes into effect.  The report shall include, but is not limited to:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_716__subsec_5__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Information regarding the finances of the educational assistance organizations; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_716__subsec_5__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Educational outcomes of qualified students.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_716__subsec_6__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>There is hereby created in the state treasury the "Missouri Empowerment Scholarship Accounts Fund", which shall consist of moneys collected under this section.  The state treasurer shall be custodian of the fund.  In accordance with sections
+30.170
+and
+30.180
+, the state treasurer may approve disbursements.  The fund shall be a dedicated fund, and moneys in the fund shall be used solely by the state treasurer for the purposes of sections
+135.712 to 135.719
+.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_716__subsec_6__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Notwithstanding the provisions of section
+33.080
+to the contrary, any moneys remaining in the fund at the end of the biennium shall not revert to the credit of the general revenue fund.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_716__subsec_6__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The state treasurer shall invest moneys in the fund in the same manner as other funds are invested.  Any interest and moneys earned on such investments shall be credited to the fund.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_716__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  Two percent of the total qualifying contributions received by each educational assistance organization per calendar year shall be deposited in the Missouri empowerment scholarship accounts fund to be used by the state treasurer for marketing and administrative expenses or the costs incurred in administering the program, whichever is less.  The state treasurer shall establish procedures to ensure the percentage of funds for administration of the program is directed to the state treasurer in a timely manner with the necessary information to verify the correct amount has been transmitted.
+­­--------
+(L. 2021 H.B. 349)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

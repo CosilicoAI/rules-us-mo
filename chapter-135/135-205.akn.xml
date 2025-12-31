@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.205">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.205" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.205" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.205" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.205/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.205/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.205/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.205/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.205</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_205">
+        <akn:num>135.205</akn:num>
+        <akn:heading>Section 135.205</akn:heading>
+        <akn:subsection eId="sec_135_205__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>The area is one of pervasive poverty, unemployment, and general distress;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_205__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>At least sixty-five percent of the residents living in the area have incomes below eighty percent of the median income of all residents within the state of Missouri according to the United States Census Bureau's American Community Survey, based on the most recent of five-year period estimate data in which the final year of the estimate ends in either zero or five or other appropriate source as approved by the director;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_205__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>The resident population of the area must be at least four thousand but not more than seventy-two thousand at the time of designation as an enterprise zone if the area lies within a metropolitan statistical area, as established by the United States Census Bureau; or, if the area does not lie within a metropolitan statistical area, the resident population of the area at the time of designation must be at least one thousand but not more than twenty thousand inhabitants.  If the population of the jurisdiction of the governing authority does not meet the minimum population requirements set forth in this subdivision, the population of the area must be at least fifty percent of the population of the jurisdiction; provided, however, no enterprise zone shall be created which consists of the total area within the political boundaries of a county; and</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_205__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>The level of unemployment of persons, according to the most recent data available from the division of employment security or from the United States Bureau of Census and approved by the director, within the area exceeds one and one-half times the average rate of unemployment for the state of Missouri over the previous twelve months, or the percentage of area residents employed on a full-time basis is less than fifty percent of the statewide percentage of residents employed on a full-time basis.
+­­--------
+(L. 1982 H.B. 1713, et al. § 3, A.L. 1983 H.B. 559, A.L. 1984 H.B. 1611 Revision, A.L. 1995 H.B. 414, A.L. 1999 H.B. 701, A.L. 2010 H.B. 1965)
+Effective 4-01-11, see § 135.204
+CROSS REFERENCE:
+Tax Credit Accountability Act of 2004, additional requirements, 135.800 to 135.830</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

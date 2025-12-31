@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.140">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.140" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.140" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.140" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.140/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.140/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.140/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.140/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.140</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_140">
+        <akn:num>135.140</akn:num>
+        <akn:heading>Section 135.140</akn:heading>
+        <akn:content>
+          <akn:p>135.140.
+Termination and resumption of operation of business — consent of director required for claim of credit. —
+If a taxpayer has terminated the operation of a revenue producing enterprise at a new business facility prior to the expiration of the ten-year period during which a credit is allowed under sections
+135.100 to 135.160
+, and later resumes the operation of the same or a different revenue producing enterprise at such new business facility, the taxpayer may, with the consent of the director of economic development, elect to claim a credit, upon resuming the operation of a revenue producing enterprise at such new business facility, computed in accordance with section
+135.110
+but for a number of years following resumption of such operations equal to ten reduced by the number of years for which the credit was claimed prior to termination of operation of such revenue producing enterprise.  The director of economic development shall grant such consent if it is determined that the termination of operations was due to reasonable cause and that the resumption of operations of a revenue producing enterprise at such new business facility will provide increased opportunities for employment and result in a substantial contribution to the economy of the state.
+­­--------
+(L. 1980 S.B. 644 § 5, A.L. 1986 S.B. 727)</akn:p>
+        </akn:content>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

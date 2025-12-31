@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.766">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.766" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.766" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.766" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.766/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.766/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.766/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.766/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.766</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_766">
+        <akn:num>135.766</akn:num>
+        <akn:heading>Section 135.766</akn:heading>
+        <akn:content>
+          <akn:p>135.766.
+Tax credit for guaranty fee paid by small businesses, when.  —
+An eligible small business, as defined in Section 44 of the Internal Revenue Code, shall be allowed a credit against the tax otherwise due pursuant to
+chapter 143
+, not including sections
+143.191 to 143.265
+, in an amount equal to any amount paid by the eligible small business to the United States Small Business Administration as a guaranty fee pursuant to obtaining Small Business Administration guaranteed financing and to programs administered by the United States Department of Agriculture for rural development or farm service agencies.  No tax credits provided under this section shall be authorized on or after the thirtieth day following the effective date of this act
+*
+.  The provisions of this subsection shall not be construed to limit or in any way impair the department's ability to issue tax credits authorized prior to the thirtieth day following the effective date of this act
+*
+, or a taxpayer's ability to redeem such tax credits.
+­­--------
+(L. 1999 H.B. 139 § 4, Repealed L. 2000 S.B. 894 § A, L. 2004 H.B. 1603, A.L. 2009 H.B. 191)
+*"This act" (H.B. 191, 2009) contained multiple effective dates.</akn:p>
+        </akn:content>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

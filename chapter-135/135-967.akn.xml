@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.967">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.967" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.967" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.967" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.967/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.967/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.967/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.967/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.967</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_967">
+        <akn:num>135.967</akn:num>
+        <akn:heading>Section 135.967</akn:heading>
+        <akn:subsection eId="sec_135_967__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  A taxpayer who establishes a new business facility may, upon approval by the department, be allowed a credit, each tax year for up to ten tax years, in an amount determined as set forth in this section, against the tax imposed by
+chapter 143
+, excluding withholding tax imposed by sections
+143.191 to 143.265
+.  No taxpayer shall receive multiple ten-year periods for subsequent expansions at the same facility.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  Notwithstanding any provision of law to the contrary, any taxpayer who establishes a new business facility in an enhanced enterprise zone and is awarded state tax credits under this section may not also receive tax credits under sections
+135.100 to 135.150
+, sections
+135.200 to 135.286
+, or section
+135.535
+, and may not simultaneously receive tax credits under sections
+620.1875 to 620.1890
+at the same facility.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  No credit shall be issued pursuant to this section unless:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_967__subsec_3__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The number of new business facility employees engaged or maintained in employment at the new business facility for the taxable year for which the credit is claimed equals or exceeds two; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_967__subsec_3__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The new business facility investment for the taxable year for which the credit is claimed equals or exceeds one hundred thousand dollars.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The annual amount of credits allowed for an approved enhanced business enterprise shall be the lesser of:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_967__subsec_4__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The annual amount authorized by the department for the enhanced business enterprise, which shall be limited to the projected state economic benefit, as determined by the department; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_967__subsec_4__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The sum calculated based upon the following:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_967__subsec_4__subsec_2__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>A credit of four hundred dollars for each new business facility employee employed within an enhanced enterprise zone;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_967__subsec_4__subsec_2__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>An additional credit of four hundred dollars for each new business facility employee who is a resident of an enhanced enterprise zone;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_967__subsec_4__subsec_2__subsec_c">
+              <akn:num>(c)</akn:num>
+              <akn:content>
+                <akn:p>An additional credit of four hundred dollars for each new business facility employee who is paid by the enhanced business enterprise a wage that exceeds the average wage paid within the county in which the facility is located, as determined by the department; and</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_967__subsec_4__subsec_2__subsec_d">
+              <akn:num>(d)</akn:num>
+              <akn:content>
+                <akn:p>A credit equal to two percent of new business facility investment within an enhanced enterprise zone.</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  Prior to January 1, 2007, in no event shall the department authorize more than four million dollars annually to be issued for all enhanced business enterprises.  After December 31, 2006, in no event shall the department authorize more than twenty-four million dollars annually to be issued for all enhanced business enterprises.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  If a facility, which does not constitute a new business facility, is expanded by the taxpayer, the expansion shall be considered eligible for the credit allowed by this section if:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_967__subsec_6__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The taxpayer's new business facility investment in the expansion during the tax period in which the credits allowed in this section are claimed exceeds one hundred thousand dollars and if the number of new business facility employees engaged or maintained in employment at the expansion facility for the taxable year for which credit is claimed equals or exceeds two, and the total number of employees at the facility after the expansion is at least two greater than the total number of employees before the expansion; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_967__subsec_6__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The taxpayer's investment in the expansion and in the original facility prior to expansion shall be determined in the manner provided in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_967__subsec_6__subsec_19">
+            <akn:num>(19)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.950
+.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  The number of new business facility employees during any taxable year shall be determined by dividing by twelve the sum of the number of individuals employed on the last business day of each month of such taxable year.  If the new business facility is in operation for less than the entire taxable year, the number of new business facility employees shall be determined by dividing the sum of the number of individuals employed on the last business day of each full calendar month during the portion of such taxable year during which the new business facility was in operation by the number of full calendar months during such period.  For the purpose of computing the credit allowed by this section in the case of a facility which qualifies as a new business facility under subsection 6 of this section, and in the case of a new business facility which satisfies the requirements of paragraph (c) of subdivision</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_967__subsec_7__subsec_17">
+            <akn:num>(17)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.950
+, or subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_967__subsec_7__subsec_25">
+            <akn:num>(25)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.950
+, the number of new business facility employees at such facility shall be reduced by the average number of individuals employed, computed as provided in this subsection, at the facility during the taxable year immediately preceding the taxable year in which such expansion, acquisition, or replacement occurred and shall further be reduced by the number of individuals employed by the taxpayer or related taxpayer that was subsequently transferred to the new business facility from another Missouri facility and for which credits authorized in this section are not being earned, whether such credits are earned because of an expansion, acquisition, relocation, or the establishment of a new facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_8">
+          <akn:num>(8)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>8.  In the case where a new business facility employee who is a resident of an enhanced enterprise zone for less than a twelve-month period is employed for less than a twelve-month period, the credits allowed by paragraph (b) of subdivision</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_967__subsec_8__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of subsection 4 of this section shall be determined by multiplying four hundred dollars by a fraction, the numerator of which is the number of calendar days during the taxpayer's tax year for which such credits are claimed, in which the employee was a resident of an enhanced enterprise zone, and the denominator of which is three hundred sixty-five.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_9">
+          <akn:num>(9)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_9">
+          <akn:num>(9)</akn:num>
+          <akn:content>
+            <akn:p>9.  For the purpose of computing the credit allowed by this section in the case of a facility which qualifies as a new business facility pursuant to subsection 6 of this section, and in the case of a new business facility which satisfies the requirements of paragraph (c) of subdivision</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_967__subsec_9__subsec_17">
+            <akn:num>(17)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.950
+or subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_967__subsec_9__subsec_25">
+            <akn:num>(25)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.950
+, the amount of the taxpayer's new business facility investment in such facility shall be reduced by the average amount, computed as provided in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_967__subsec_9__subsec_19">
+            <akn:num>(19)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.950
+for new business facility investment, of the investment of the taxpayer, or related taxpayer immediately preceding such expansion or replacement or at the time of acquisition.  Furthermore, the amount of the taxpayer's new business facility investment shall also be reduced by the amount of investment employed by the taxpayer or related taxpayer which was subsequently transferred to the new business facility from another Missouri facility and for which credits authorized in this section are not being earned, whether such credits are earned because of an expansion, acquisition, relocation, or the establishment of a new facility.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_10">
+          <akn:num>(10)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_10">
+          <akn:num>(10)</akn:num>
+          <akn:content>
+            <akn:p>10.  For a taxpayer with flow-through tax treatment to its members, partners, or shareholders, the credit shall be allowed to members, partners, or shareholders in proportion to their share of ownership on the last day of the taxpayer's tax period.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_11">
+          <akn:num>(11)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_11">
+          <akn:num>(11)</akn:num>
+          <akn:content>
+            <akn:p>11.  Credits may not be carried forward but shall be claimed for the taxable year during which commencement of commercial operations occurs at such new business facility, and for each of the nine succeeding taxable years for which the credit is issued.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_12">
+          <akn:num>(12)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_12">
+          <akn:num>(12)</akn:num>
+          <akn:content>
+            <akn:p>12.  Certificates of tax credit authorized by this section may be transferred, sold, or assigned by filing a notarized endorsement thereof with the department that names the transferee, the amount of tax credit transferred, and the value received for the credit, as well as any other information reasonably requested by the department.  The sale price cannot be less than seventy-five percent of the par value of such credits.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_13">
+          <akn:num>(13)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_13">
+          <akn:num>(13)</akn:num>
+          <akn:content>
+            <akn:p>13.  The director of revenue shall issue a refund to the taxpayer to the extent that the amount of credits allowed in this section exceeds the amount of the taxpayer's income tax.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_14">
+          <akn:num>(14)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_967__subsec_14">
+          <akn:num>(14)</akn:num>
+          <akn:content>
+            <akn:p>14.  Prior to the issuance of tax credits, the department shall verify through the department of revenue, or any other state department, that the tax credit applicant does not owe any delinquent income, sales, or use tax or interest or penalties on such taxes, or any delinquent fees or assessments levied by any state department and through the department of commerce and insurance that the applicant does not owe any delinquent insurance taxes.  Such delinquency shall not affect the authorization of the application for such tax credits, except that the amount of credits issued shall be reduced by the applicant's tax delinquency.  If the department of revenue or the department of commerce and insurance, or any other state department, concludes that a taxpayer is delinquent after June fifteenth but before July first of any year and the application of tax credits to such delinquency causes a tax deficiency on behalf of the taxpayer to arise, then the taxpayer shall be granted thirty days to satisfy the deficiency in which interest, penalties, and additions to tax shall be tolled.  After applying all available credits toward a tax delinquency, the administering agency shall notify the appropriate department, and that department shall update the amount of outstanding delinquent tax owed by the applicant.  If any credits remain after satisfying all insurance, income, sales, and use tax delinquencies, the remaining credits shall be issued to the applicant, subject to the restrictions of other provisions of law.
+­­--------
+(L. 2004 S.B. 1155 § 135.1070, A.L. 2007 1st Ex. Sess. H.B. 1, A.L. 2008 H.B. 2058 merged with H.B. 2393 merged with S.B. 718)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

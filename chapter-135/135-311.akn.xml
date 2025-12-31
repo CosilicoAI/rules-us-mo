@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.311">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.311" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.311" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.311" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.311/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.311/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.311/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.311/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.311</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_311">
+        <akn:num>135.311</akn:num>
+        <akn:heading>Section 135.311</akn:heading>
+        <akn:subsection eId="sec_135_311__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>The number of tons of processed wood products produced during the preceding calendar year;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_311__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>The name and address of the person to whom processed products were sold and the number of tons sold to each person;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_311__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>Other information which the department of economic development reasonably requires.  The application shall be received and reviewed by the division of energy of the department of economic development and the division shall certify to the department of revenue each applicant which qualifies as a wood energy-producing facility.
+­­--------
+(L. 1985 H.B. 831 §§ 5, 6, A.L. 1991 S.B. 185, A.L. 1996 H.B. 1237, A.L. 2018 S.B. 975 &amp; 1024 Revision)
+CROSS REFERENCE:
+Tax Credit Accountability Act of 2004, additional requirements,
+135.800 to 135.830</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

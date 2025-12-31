@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.220">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.220" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.220" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.220" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.220/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.220/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.220/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.220/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.220</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_220">
+        <akn:num>135.220</akn:num>
+        <akn:heading>Section 135.220</akn:heading>
+        <akn:subsection eId="sec_135_220__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_220__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  The provisions of
+chapter 143
+notwithstanding, one-half of the Missouri taxable income attributed to a new business facility in an enterprise zone which is earned by a taxpayer establishing and operating a new business facility located within an enterprise zone shall be exempt from taxation under
+chapter 143
+.  A taxpayer operating a revenue producing enterprise as defined in paragraph (d) of subdivision</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_220__subsec_1__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.200
+may elect to exempt from taxation under
+chapter 143
+one-half of the Missouri taxable income attributed to a new business facility in an enterprise zone or may elect to claim a fifty-dollar credit against the tax imposed under
+chapter 143
+, excluding withholding tax imposed by sections
+143.191 to 143.265
+, for each room constructed for use as a bedroom for each qualifying residential unit.  A
+"bedroom"
+is defined as a structurally separate room used primarily for sleeping, and not as a living room, dining room, kitchen or closet.  That portion of income attributed to the new business facility shall be determined in a manner prescribed in paragraph</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_220__subsec_1__subsec_6__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>of subdivision</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_220__subsec_1__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>*
+of section
+135.100
+, except that compensation paid to truck drivers, or rail or barge vehicle operators shall be excluded from the fraction.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_220__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_220__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  In the case of a small corporation described in section
+143.471
+or a partnership, in computing the Missouri taxable income of the taxpayers described in subdivisions</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_220__subsec_2__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_220__subsec_2__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this subsection, a deduction apportioned in proportion to their share of ownership of the business on the last day of the taxpayer's tax period for which such tax credits are being claimed, shall be allowed from their Missouri adjusted gross income in the amount of one-half of the Missouri taxable income earned by the new business facility, as determined by the method prescribed in subsection 1 of this section located within the enterprise zone, as defined in this section, to the following:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_220__subsec_2__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The shareholders of a small corporation described in section
+143.471
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_220__subsec_2__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The partners in a partnership.
+­­--------
+(L. 1982 H.B. 1713, et al. § 6, A.L. 1983 H.B. 559, A.L. 1986 S.B. 727, A.L. 1991 H.B. 294 &amp; 405, A.L. 1992 S.B. 661 &amp; 620, A.L. 1994 H.B. 1248 &amp; 1048)
+*In 2019, statutory reference to subdivision "</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

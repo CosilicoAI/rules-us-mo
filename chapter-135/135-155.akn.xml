@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.155">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.155" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.155" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.155" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.155/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.155/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.155/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.155/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.155</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_155">
+        <akn:num>135.155</akn:num>
+        <akn:heading>Section 135.155</akn:heading>
+        <akn:subsection eId="sec_135_155__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_155__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  Notwithstanding any provision of the law to the contrary, no revenue-producing enterprise other than headquarters as defined in subsection 10 of section
+135.110
+shall receive the incentives set forth in sections
+135.100 to 135.150
+for facilities commencing operations on or after January 1, 2005.  No headquarters shall receive the incentives set forth in subsections 9 to 14 of section
+135.110
+for facilities commencing or expanding operations on or after January 1, 2031.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_155__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_155__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  Notwithstanding subsection 9 of section
+135.110
+to the contrary, expansions at headquarters facilities shall each be considered a separate new business facility and each be entitled to the credits as set forth in subsections 9 to 14 of section
+135.110
+if the number of new business facility employees attributed to each such expansion is at least twenty-five and the amount of new business facility investment attributed to each such expansion is at least one million dollars.  In any year in which a new business facility is not created, the jobs and investment for that year shall be included in calculating the credits for the most recent new business facility and not an earlier created new business facility.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_155__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_155__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  Notwithstanding any provision of law to the contrary, for headquarters, buildings on multiple noncontiguous real properties shall be considered one facility if the buildings are located within the same county or within the same municipality.
+­­--------
+(L. 2004 S.B. 1155, A.L. 2009 H.B. 191, A.L. 2015 S.B. 194, A.L. 2022 H.B. 2400)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

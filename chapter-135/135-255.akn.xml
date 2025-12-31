@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.255">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.255" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.255" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.255" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.255/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.255/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.255/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.255/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.255</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_255">
+        <akn:num>135.255</akn:num>
+        <akn:heading>Section 135.255</akn:heading>
+        <akn:subsection eId="sec_135_255__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>Actual expenses up to five hundred dollars incurred in moving himself, his family and other personal property; or the displaced person may elect to be moved by licensed, bonded moving services, or receive
+*
+a moving expense allowance up to a maximum of five hundred dollars;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_255__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>Actual dislocation expenses incurred up to two hundred dollars, including as eligible expenses, but not limited to, utility connection costs, and other incidental expenses;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_255__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>The amount, if any, which, when added to the acquisition cost of the dwelling acquired by the redevelopment corporation, equals the reasonable cost of a replacement dwelling which is comparable to the dwelling being acquired in size, condition, and accessibility to public services, and commercial facilities, and which is reasonably accessible to his place of employment, and is available on the private market without discrimination due to race, color, creed, religion, national origin, sex or source of income;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_255__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>The amount, if any, which will compensate the displaced person for any increased interest costs which such person is required to pay for financing the acquisition of a replacement dwelling.  Such amount shall be equal to the interest differential between the existing and new mortgage based upon the remaining principal and term on the existing mortgage;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_255__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>The amount, if any, which will compensate the displaced person for any increased monthly payments for principal, interest, taxes and insurance which such person is required to pay due to the loss by such person of government subsidies, including, but not limited to, subsidies under Section 235 of Title 24, Code of Federal Regulations, as a result of being displaced.  Such amount shall be discounted to present value.  The discount rate shall be five and one-half percent.  The payments authorized by this section shall be made only to a displaced person who purchases or occupies a replacement dwelling which is decent, safe and sanitary not later than one year after the date on which the displaced person receives payment of consideration for the acquired dwelling or the date on which the displaced person moves from the acquired dwelling, whichever is later.  No payment under this section to any displaced person may exceed ten thousand dollars.
+­­--------
+(L. 1982 H.B. 1713, et al. § 13)
+*Word "received" appears in original rolls.</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

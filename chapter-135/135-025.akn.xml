@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.025">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.025" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.025" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.025" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.025/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.025/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.025/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.025/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.025</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_025">
+        <akn:num>135.025</akn:num>
+        <akn:heading>Section 135.025</akn:heading>
+        <akn:content>
+          <akn:p>135.025.
+Accrued taxes and rent constituting taxes to be totaled — maximum amount allowable — allocation regulations, when. —
+The property taxes accrued and rent constituting property taxes accrued on each return shall be totaled.  This total, up to seven hundred fifty dollars in rent constituting property taxes actually paid or eleven hundred dollars in actual property tax paid, shall be used in determining the property tax credit for all calendar years ending on or before December 31, 2025.  For all calendar years beginning on or after January 1, 2026, this total, up to one thousand fifty-five dollars in rent constituting property taxes actually paid or one thousand five hundred fifty dollars in actual property tax paid, shall be used in determining the property tax credit.  Beginning January 1, 2027, the property tax credit totals under this section shall be adjusted annually for inflation based on the Consumer Price Index for All Urban Consumers for the Midwest Region, as defined and officially recorded by the United States Department of Labor or its successor.  The director of revenue shall prescribe regulations providing for allocations where part of a claimant's homestead is rented to another or used for nondwelling purposes or where a homestead is owned or rented or used as a dwelling for part of a year.
+­­--------
+(L. 1973 H.B. 149, et al. § 4, A.L. 1975 H.B. 121, et al., A.L. 1988 S.B. 555, A.L. 2008 S.B. 711, A.L. 2025 H.B. 594 &amp; 508)</akn:p>
+        </akn:content>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

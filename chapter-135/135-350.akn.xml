@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.350">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.350" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.350" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.350" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.350/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.350/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.350/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.350/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.350</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_350">
+        <akn:num>135.350</akn:num>
+        <akn:heading>Section 135.350</akn:heading>
+        <akn:subsection eId="sec_135_350__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>"Commission"
+, the Missouri housing development commission, or its successor agency;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_350__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>"Director"
+, director of the department of revenue;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_350__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>"Eligibility statement"
+, a statement authorized and issued by the commission certifying that a given project qualifies for the Missouri low-income housing tax credit.  The commission shall promulgate rules establishing criteria upon which the eligibility statements will be issued.  The eligibility statement shall specify the amount of the Missouri low-income housing tax credit allowed.  The commission shall only authorize the tax credits to qualified projects which begin after June 18, 1991;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_350__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>"Federal low-income housing tax credit"
+, the federal tax credit as provided in section 42 of the 1986 Internal Revenue Code, as amended;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_350__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>"Low-income project"
+, a housing project which has restricted rents that do not exceed thirty percent of median income for at least forty percent of its units occupied by persons of families having incomes of sixty percent or less of the median income, or at least twenty percent of the units occupied by persons or families having incomes of fifty percent or less of the median income;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_350__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>"Median income"
+, those incomes which are determined by the federal Department of Housing and Urban Development guidelines and adjusted for family size;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_350__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>"Qualified Missouri project"
+, a qualified low-income building as that term is defined in section 42 of the 1986 Internal Revenue Code, as amended, which is located in Missouri;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_350__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>"Taxpayer"
+, person, firm or corporation subject to the state income tax imposed by the provisions of
+chapter 143
+(except withholding imposed by sections
+143.191 to 143.265
+) or a corporation subject to the annual corporation franchise tax imposed by the provisions of
+chapter 147
+, or an insurance company paying an annual tax on its gross premium receipts in this state, or other financial institution paying taxes to the state of Missouri or any political subdivision of this state under the provisions of
+chapter 148
+, or an express company which pays an annual tax on its gross receipts in this state.
+­­--------
+(L. 1990 H.B. 960 § 3 subsec. 1, A.L. 1991 S.B. 185)
+Effective 6-18-91</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

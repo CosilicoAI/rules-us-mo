@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.772">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.772" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.772" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.772" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.772/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.772/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.772/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.772/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.772</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_772">
+        <akn:num>135.772</akn:num>
+        <akn:heading>Section 135.772</akn:heading>
+        <akn:subsection eId="sec_135_772__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  For the purposes of this section, the following terms shall mean:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_772__subsec_1__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Department"
+, the Missouri department of revenue;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_772__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Distributor"
+, a person, firm, or corporation doing business in this state that:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_772__subsec_1__subsec_2__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>Produces, refines, blends, compounds, or manufactures motor fuel;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_772__subsec_1__subsec_2__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>Imports motor fuel into the state; or</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_772__subsec_1__subsec_2__subsec_c">
+              <akn:num>(c)</akn:num>
+              <akn:content>
+                <akn:p>Is engaged in distribution of motor fuel;</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_772__subsec_1__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Higher ethanol blend"
+, a fuel capable of being dispensed directly into motor vehicle fuel tanks for consumption that is comprised of at least fifteen percent but not more than eighty-five percent ethanol;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_772__subsec_1__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Retail dealer"
+, a person, firm, or corporation doing business in this state that owns or operates a retail service station in this state;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_772__subsec_1__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Retail service station"
+, a location in this state from which higher ethanol blend is sold to the general public and is dispensed directly into motor vehicle fuel tanks for consumption.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  For all tax years beginning on or after January 1, 2023, a retail dealer that sells higher ethanol blend at such retail dealer's retail service station or a distributor that sells higher ethanol blend directly to the final user located in this state shall be allowed a tax credit to be taken against the retail dealer's or distributor's state income tax liability.  The amount of the credit shall equal five cents per gallon of higher ethanol blend sold by the retail dealer and dispensed through metered pumps at the retail dealer's retail service station or by a distributor directly to the final user located in this state during the tax year for which the tax credit is claimed.  For any retail dealer or distributor with a tax year beginning prior to January 1, 2023, but ending during the 2023 calendar year, such retail dealer or distributor shall be allowed a tax credit for the amount of higher ethanol blend sold during the portion of such tax year that occurs during the 2023 calendar year.  Tax credits authorized pursuant to this section shall not be transferred, sold, or assigned.  If the amount of the tax credit exceeds the taxpayer's state tax liability, the difference shall not be refundable but may be carried forward to any of the five subsequent tax years.  The total amount of tax credits issued pursuant to this section for any given fiscal year shall not exceed five million dollars.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  In the event the total amount of tax credits claimed under this section exceeds the amount of available tax credits, the tax credits shall be apportioned among all eligible retail dealers and distributors claiming a tax credit by April fifteenth, or as directed by section
+143.851
+, of the fiscal year in which the tax credit is claimed.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The tax credit allowed by this section shall be claimed by such taxpayer at the time such taxpayer files a return and shall be applied against the income tax liability imposed by
+chapter 143
+, excluding the withholding tax imposed by sections
+143.191 to 143.265
+, after reduction for all other credits allowed thereon.  The department may require any documentation it deems necessary to implement the provisions of this section.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  The department shall promulgate rules to implement the provisions of this section.  Any rule or portion of a rule, as that term is defined in section
+536.010
+, that is created under the authority delegated in this section shall become effective only if it complies with and is subject to all of the provisions of
+chapter 536
+and, if applicable, section
+536.028
+.  This section and
+chapter 536
+are nonseverable and if any of the powers vested with the general assembly pursuant to
+chapter 536
+to review, to delay the effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of rulemaking authority and any rule proposed or adopted after January 2, 2023, shall be invalid and void.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_772__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  Under section
+23.253
+of the Missouri sunset act:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_772__subsec_6__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The provisions of this section shall automatically sunset on December 31, 2028, unless reauthorized by an act of the general assembly; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_772__subsec_6__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If such program is reauthorized, the program authorized under this section shall automatically sunset twelve years after the effective date of the reauthorization of this section; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_772__subsec_6__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>This section shall terminate on September first of the calendar year immediately following the calendar year in which the program authorized under this section is sunset.
+­­--------
+(L. 2022 1st Ex. Sess. H.B. 3 § 135.755, A.L. 2023 S.B. 138)
+Sunset date 12-31-28
+Termination date 9-01-29</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.408">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.408" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.408" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.408" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.408/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.408/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.408/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.408/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.408</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_408">
+        <akn:num>135.408</akn:num>
+        <akn:heading>Section 135.408</akn:heading>
+        <akn:content>
+          <akn:p>135.408.
+Qualified investment in a small business, requirements — to be eligible for tax credit — required purposes for investments. —
+A qualified investment in a Missouri small business may be made either through an unsecured loan or the purchase of equity or unsecured debt securities of such business.  Investors in a small business qualifying for tax credits under the provisions of sections
+135.400 to 135.430
+, however, must collectively own less than fifty percent of a business after their investments are made.  Qualified investments in a Missouri small business must be expended for capital improvements, plant, equipment, research and development, or working capital for the business or such business activity as may be approved by the department.
+­­--------
+(L. 1992 S.B. 661 &amp; 620 § 9 subsec. 4, A.L. 1994 H.B. 1547 &amp; 961)
+CROSS REFERENCE:
+Tax Credit Accountability Act of 2004, additional requirements, 135.800 to 135.830</akn:p>
+        </akn:content>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

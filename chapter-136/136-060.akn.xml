@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-136.060">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.060" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.060" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="136.060" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.060/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.060/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.060/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.060/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=136.060</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_136_060">
+        <akn:num>136.060</akn:num>
+        <akn:heading>Section 136.060</akn:heading>
+        <akn:subsection eId="sec_136_060__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_060__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  Except as otherwise provided by law, the director of revenue may deputize any officer or employee of any department, institution or agency of the state, subject to the approval of the head of such department, institution or agency, to collect any tax, license or fee payable to the state which has heretofore been collected by such department, institution or agency.  Upon being so deputized, such officer or employee shall in the name of and on behalf of the director of revenue and under such rules and regulations as the state director of revenue may prescribe collect any such tax, license or fee, provided that all moneys so collected shall be transmitted promptly to the division of taxation and collection.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_060__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_060__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  The director of revenue may require a surety bond from any person so deputized in such amount and upon such conditions as he may deem necessary, with sureties to be approved by him.  The premium of said bond shall be paid out of the appropriation for the department of revenue.  The compensation of any officer or employee so deputized shall be paid by said department, institution or agency.
+­­--------
+(L. 1945 p. 1428 § 14)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

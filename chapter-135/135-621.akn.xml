@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.621">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.621" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.621" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.621" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.621/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.621/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.621/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.621/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.621</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_621">
+        <akn:num>135.621</akn:num>
+        <akn:heading>Section 135.621</akn:heading>
+        <akn:subsection eId="sec_135_621__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  As used in this section, the following terms mean:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_621__subsec_1__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Contribution"
+, a donation of cash, stock, bonds, other marketable securities, or real property;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_621__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Department"
+, the department of social services;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_621__subsec_1__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Diaper bank"
+, a national diaper bank or a nonprofit entity located in this state established and operating primarily for the purpose of collecting or purchasing disposable diapers or other hygiene products for infants, children, or incontinent adults and that regularly distributes such diapers or other hygiene products through two or more schools, health care facilities, governmental agencies, or other nonprofit entities for eventual distribution to individuals free of charge;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_621__subsec_1__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"National diaper bank"
+, a nonprofit entity located in this state that meets the following criteria:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_621__subsec_1__subsec_4__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>Collects, purchases, warehouses, and manages a community inventory of disposable diapers or other hygiene products for infants, children, or incontinent adults;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_621__subsec_1__subsec_4__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>Regularly distributes a consistent and reliable supply of such diapers or other hygiene products through two or more schools, health care facilities, governmental agencies, or other nonprofit entities for eventual distribution to individuals free of charge, with the intention of reducing diaper need; and</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_621__subsec_1__subsec_4__subsec_c">
+              <akn:num>(c)</akn:num>
+              <akn:content>
+                <akn:p>Is a member of a national network organization serving all fifty states through which certification demonstrates nonprofit best practices, data-driven program design, and equitable distribution focused on best serving infants, children, and incontinent adults;</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_621__subsec_1__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Tax credit"
+, a credit against the tax otherwise due under
+chapter 143
+, excluding withholding tax imposed under sections
+143.191 to 143.265
+, or otherwise due under
+chapter 148
+or
+153
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_621__subsec_1__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Taxpayer"
+, a person, firm, partner in a firm, corporation, or shareholder in an S corporation doing business in the state of Missouri and subject to the state income tax imposed under
+chapter 143
+; an insurance company paying an annual tax on its gross premium receipts in this state; any other financial institution paying taxes to the state of Missouri or any political subdivision of this state under
+chapter 148
+; an express company that pays an annual tax on its gross receipts in this state under
+chapter 153
+; an individual subject to the state income tax under
+chapter 143
+; or any charitable organization that is exempt from federal income tax and whose Missouri unrelated business taxable income, if any, would be subject to the state income tax imposed under
+chapter 143
+.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  For all fiscal years beginning on or after July 1, 2019, a taxpayer shall be allowed to claim a tax credit against the taxpayer's state tax liability in an amount equal to fifty percent of the amount of such taxpayer's contributions to a diaper bank.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  The amount of the tax credit claimed shall not exceed the amount of the taxpayer's state tax liability for the tax year for which the credit is claimed, and such taxpayer shall not be allowed to claim a tax credit in excess of fifty thousand dollars per tax year.  However, any tax credit that cannot be claimed in the tax year the contribution was made may be carried over only to the next subsequent tax year.  No tax credit issued under this section shall be assigned, transferred, or sold.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  Except for any excess credit that is carried over under subsection 3 of this section, no taxpayer shall be allowed to claim a tax credit unless the taxpayer contributes at least one hundred dollars to one or more diaper banks during the tax year for which the credit is claimed.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  The department shall determine, at least annually, which entities in this state qualify as diaper banks.  The department may require of an entity seeking to be classified as a diaper bank any information which is reasonably necessary to make such a determination.  The department shall classify an entity as a diaper bank if such entity satisfies the definition under subsection 1 of this section.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  The department shall establish a procedure by which a taxpayer can determine if an entity has been classified as a diaper bank.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  Diaper banks may decline a contribution from a taxpayer.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_8">
+          <akn:num>(8)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>8.  The cumulative amount of tax credits that may be claimed by all the taxpayers contributing to diaper banks in any one fiscal year shall not exceed five hundred thousand dollars.  Tax credits shall be issued in the order contributions are received.  If the amount of tax credits redeemed in a tax year is less than five hundred thousand dollars, the difference shall be added to the cumulative limit created under this subsection for the next fiscal year and carried over to subsequent fiscal years until claimed.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_9">
+          <akn:num>(9)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_9">
+          <akn:num>(9)</akn:num>
+          <akn:content>
+            <akn:p>9.  The department shall establish a procedure by which, from the beginning of the fiscal year until some point in time later in the fiscal year to be determined by the department, the cumulative amount of tax credits are equally apportioned among all entities classified as diaper banks.  If a diaper bank fails to use all, or some percentage to be determined by the department, of its apportioned tax credits during this predetermined period of time, the department may reapportion such unused tax credits to diaper banks that have used all, or some percentage to be determined by the department, of their apportioned tax credits during this predetermined period of time.  The department may establish multiple periods each fiscal year and reapportion accordingly.  To the maximum extent possible, the department shall establish the procedure described under this subsection in such a manner as to ensure that taxpayers can claim as many of the tax credits as possible, up to the cumulative limit created under subsection 8 of this section.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_10">
+          <akn:num>(10)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_10">
+          <akn:num>(10)</akn:num>
+          <akn:content>
+            <akn:p>10.  Each diaper bank shall provide information to the department concerning the identity of each taxpayer making a contribution and the amount of the contribution.  The department shall provide the information to the department of revenue.  The department shall be subject to the confidentiality and penalty provisions of section
+32.057
+relating to the disclosure of tax information.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_11">
+          <akn:num>(11)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_621__subsec_11">
+          <akn:num>(11)</akn:num>
+          <akn:content>
+            <akn:p>11.  Under section
+23.253
+of the Missouri sunset act:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_621__subsec_11__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The provisions of the program authorized under this section shall automatically sunset on December thirty-first six years after August 28, 2025, unless reauthorized by an act of the general assembly;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_621__subsec_11__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If such program is reauthorized, the program authorized under this section shall automatically sunset on December thirty-first six years after the effective date of the reauthorization of this section;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_621__subsec_11__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>This section shall terminate on September first of the calendar year immediately following the calendar year in which the program authorized under this section is sunset; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_621__subsec_11__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The provisions of this subsection shall not be construed to limit or in any way impair the department's ability to issue tax credits authorized on or before the date the program authorized under this section expires or a taxpayer's ability to redeem such tax credits.
+­­--------
+(L. 2018 H.B. 1288, et al., A.L. 2025 H.B. 121 merged with S.B. 43)
+Sunset date 12-31-31
+Termination date 9-01-32</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

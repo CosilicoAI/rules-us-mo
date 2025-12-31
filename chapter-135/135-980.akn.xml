@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.980">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.980" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.980" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.980" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.980/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.980/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.980/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.980/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.980</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_980">
+        <akn:num>135.980</akn:num>
+        <akn:heading>Section 135.980</akn:heading>
+        <akn:subsection eId="sec_135_980__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_980__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  As used in this section, the following terms shall mean:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_980__subsec_1__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"NAICS"
+, the classification provided by the most recent edition of the North American Industry Classification System as prepared by the Executive Office of the President, Office of Management and Budget;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_980__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Public financial incentive"
+, any economic or financial incentive offered including:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_980__subsec_1__subsec_2__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>Any tax reduction, credit, forgiveness, abatement, subsidy, or other tax-relieving measure;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_980__subsec_1__subsec_2__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>Any tax increment financing or similar financial arrangement;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_980__subsec_1__subsec_2__subsec_c">
+              <akn:num>(c)</akn:num>
+              <akn:content>
+                <akn:p>Any monetary or nonmonetary benefit related to any bond, loan, or similar financial arrangement;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_980__subsec_1__subsec_2__subsec_d">
+              <akn:num>(d)</akn:num>
+              <akn:content>
+                <akn:p>Any reduction, credit, forgiveness, abatement, subsidy, or other relief related to any bond, loan, or similar financial arrangement; and</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_980__subsec_1__subsec_2__subsec_e">
+              <akn:num>(e)</akn:num>
+              <akn:content>
+                <akn:p>The ability to form, own, direct, or receive any economic or financial benefit from any special taxation district.</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_980__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_980__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  No city not within a county shall by ballot measure impose any restriction on any public financial incentive authorized by statute for a business with a NAICS code of 212111.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_980__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_980__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  The provisions of this section shall expire on December 31, 2017.
+­­--------
+(L. 2014 S.B. 672)
+Expires 12-31-17</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

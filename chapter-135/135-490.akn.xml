@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.490">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.490" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.490" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.490" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.490/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.490/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.490/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.490/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.490</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_490">
+        <akn:num>135.490</akn:num>
+        <akn:heading>Section 135.490</akn:heading>
+        <akn:subsection eId="sec_135_490__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_490__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  In order to encourage and foster community improvement, an eligible small business, as defined in Section 44 of the Internal Revenue Code, shall be allowed a credit not to exceed five thousand dollars against the tax otherwise due pursuant to
+chapter 143
+, not including sections
+143.191 to 143.265
+, in an amount equal to fifty percent of all eligible access expenditures exceeding the monetary cap provided by Section 44 of the Internal Revenue Code.  For purposes of this section,
+"eligible access expenditures"
+means amounts paid or incurred by the taxpayer in order to comply with applicable access requirements provided by the Americans With Disabilities Act of 1990, as further defined in Section 44 of the Internal Revenue Code and federal rulings interpreting Section 44 of the Internal Revenue Code.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_490__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_490__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  The tax credit allowed by this section shall be claimed by the taxpayer at the time such taxpayer files a return.  Any amount of tax credit which exceeds the tax due shall be carried over to any subsequent taxable year, but shall not be refunded and shall not be transferable.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_490__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_490__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  The director of the department of economic development and the director of the department of revenue shall jointly administer the tax credit authorized by this section.  Both the director of the department of economic development and the director of the department of revenue are authorized to promulgate rules and regulations necessary to administer the provisions of this section.  No rule or portion of a rule promulgated pursuant to the authority of this section shall become effective unless it has been promulgated pursuant to the provisions of
+chapter 536
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_490__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_490__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The provisions of this section shall become effective on January 1, 2000, and shall apply to all taxable years beginning after December 31, 1999.
+­­--------
+(L. 1999 H.B. 516 § 1 merged with S.B. 20 § 6, A.L. 2001 H.B. 590)
+CROSS REFERENCE:
+Tax Credit Accountability Act of 2004, additional requirements 135.800 to 135.830</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

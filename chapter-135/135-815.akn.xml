@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.815">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.815" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.815" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.815" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.815/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.815/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.815/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.815/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.815</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_815">
+        <akn:num>135.815</akn:num>
+        <akn:heading>Section 135.815</akn:heading>
+        <akn:subsection eId="sec_135_815__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_815__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  Prior to authorization of any tax credit application, an administering agency shall verify through the department of revenue that the tax credit applicant does not owe any delinquent income, sales, or use taxes, or interest, additions, or penalties on such taxes, and through the department of commerce and insurance that the applicant does not owe any delinquent insurance taxes.  Such delinquency shall not affect the authorization of the application for such tax credits, except that the amount of credits issued shall be reduced by the applicant's tax delinquency.  If the department of revenue or the department of commerce and insurance concludes that a taxpayer is delinquent after June fifteenth but before July first of any year, and the application of tax credits to such delinquency causes a tax deficiency on behalf of the taxpayer to arise, then the taxpayer shall be granted thirty days to satisfy the deficiency in which interest, penalties, and additions to tax shall be tolled.  After applying all available credits towards a tax delinquency, the administering agency shall notify the appropriate department, and that department shall update the amount of outstanding delinquent tax owed by the applicant.  If any credits remain after satisfying all insurance, income, sales, and use tax delinquencies, the remaining credits shall be issued to the applicant, subject to the restrictions of other provisions of law.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_815__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_815__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  Any applicant of a tax credit program who knowingly employs unauthorized aliens shall forfeit any tax credits issued to such applicant which have not been redeemed, and shall repay the amount of any tax credits redeemed by such applicant during the period of time such unauthorized alien was employed by the applicant.  Such forfeiture and repayment shall be additional to, and not in lieu of, any penalties imposed pursuant to section
+135.810
+.  As used in this subsection, the term
+"unauthorized alien"
+shall mean an alien who does not have the legal right or authorization under federal law to work in the United States, as defined under Section 8 U.S.C. 1324a(h)(3).  The amount of tax credits required to be repaid under this subsection, but which are not repaid by the applicant, shall be subject to the same procedure and provisions of law as a liability for unpaid income tax arising on the date that the department of revenue became aware of the violation of this provision.
+­­--------
+(L. 2004 S.B. 1099, A.L. 2008 H.B. 2058 merged with S.B. 718, A.L. 2022 H.B. 2400)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

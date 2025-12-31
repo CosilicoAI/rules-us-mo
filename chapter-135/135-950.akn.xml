@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.950">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.950" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.950" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.950" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.950/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.950/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.950/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.950/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.950</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_950">
+        <akn:num>135.950</akn:num>
+        <akn:heading>to 135</akn:heading>
+        <akn:subsection eId="sec_135_950__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>"Average wage"
+, the new payroll divided by the number of new jobs;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>"Blighted area"
+, the same meaning as defined pursuant to section
+99.805
+;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>"Board"
+, an enhanced enterprise zone board established pursuant to section
+135.957
+;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>"Commencement of commercial operations"
+shall be deemed to occur during the first taxable year for which the new business facility is first put into use by the taxpayer in the enhanced business enterprise in which the taxpayer intends to use the new business facility;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>"County average wage"
+, the average wages in each county as determined by the department for the most recently completed full calendar year.  However, if the computed county average wage is above the statewide average wage, the statewide average wage shall be deemed the county average wage for such county for the purpose of determining eligibility.  The department shall publish the county average wage for each county at least annually.  Notwithstanding the provisions of this subdivision to the contrary, for any taxpayer that in conjunction with their project is relocating employees from a Missouri county with a higher county average wage, such taxpayer shall obtain the endorsement of the governing body of the community from which jobs are being relocated or the county average wage for their project shall be the county average wage for the county from which the employees are being relocated;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>"Department"
+, the department of economic development;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>"Director"
+, the director of the department of economic development;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>"Employee"
+, a person employed by the enhanced business enterprise that is scheduled to work an average of at least one thousand hours per year, and such person at all times has health insurance offered to him or her, which is partially paid for by the employer;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_9">
+          <akn:num>(9)</akn:num>
+          <akn:content>
+            <akn:p>"Enhanced business enterprise"
+, an industry or one of a cluster of industries that is either:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_950__subsec_9__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Identified by the department as critical to the state's economic security and growth; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_9__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Will have an impact on industry cluster development, as identified by the governing authority in its application for designation of an enhanced enterprise zone and approved by the department; but excluding gambling establishments (NAICS industry group 7132), retail trade (NAICS sectors 44 and 45), educational services (NAICS sector 61), religious organizations (NAICS industry group 8131), public administration (NAICS sector 92), and food and drinking places (NAICS subsector 722), however, notwithstanding provisions of this section to the contrary, headquarters or administrative offices of an otherwise excluded business may qualify for benefits if the offices serve a multistate territory.  In the event a national, state, or regional headquarters operation is not the predominant activity of a project facility, the new jobs and investment of such headquarters operation is considered eligible for benefits under this section if the other requirements are satisfied.  Service industries may be eligible only if a majority of its annual revenues will be derived from out of the state;</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_10">
+          <akn:num>(10)</akn:num>
+          <akn:content>
+            <akn:p>"Existing business facility"
+, any facility in this state which was employed by the taxpayer claiming the credit in the operation of an enhanced business enterprise immediately prior to an expansion, acquisition, addition, or replacement;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_11">
+          <akn:num>(11)</akn:num>
+          <akn:content>
+            <akn:p>"Facility"
+, any building used as an enhanced business enterprise located within an enhanced enterprise zone, including the land on which the facility is located and all machinery, equipment, and other real and depreciable tangible personal property acquired for use at and located at or within such facility and used in connection with the operation of such facility;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_12">
+          <akn:num>(12)</akn:num>
+          <akn:content>
+            <akn:p>"Facility base employment"
+, the greater of the number of employees located at the facility on the date of the notice of intent, or for the twelve-month period prior to the date of the notice of intent, the average number of employees located at the facility, or in the event the project facility has not been in operation for a full twelve-month period, the average number of employees for the number of months the facility has been in operation prior to the date of the notice of intent;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_13">
+          <akn:num>(13)</akn:num>
+          <akn:content>
+            <akn:p>"Facility base payroll"
+, the total amount of taxable wages paid by the enhanced business enterprise to employees of the enhanced business enterprise located at the facility in the twelve months prior to the notice of intent, not including the payroll of owners of the enhanced business enterprise unless the enhanced business enterprise is participating in an employee stock ownership plan.  For the purposes of calculating the benefits under this program, the amount of base payroll shall increase each year based on the consumer price index or other comparable measure, as determined by the department;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_14">
+          <akn:num>(14)</akn:num>
+          <akn:content>
+            <akn:p>"Governing authority"
+, the body holding primary legislative authority over a county or incorporated municipality;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_15">
+          <akn:num>(15)</akn:num>
+          <akn:content>
+            <akn:p>"Megaproject"
+, any manufacturing or assembling facility, approved by the department for construction and operation within an enhanced enterprise zone, which satisfies the following:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_950__subsec_15__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The new capital investment is projected to exceed three hundred million dollars over a period of eight years from the date of approval by the department;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_15__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The number of new jobs is projected to exceed one thousand over a period of eight years beginning on the date of approval by the department;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_15__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>The average wage of new jobs to be created shall exceed the county average wage;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_15__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>The taxpayer shall offer health insurance to all new jobs and pay at least eighty percent of such insurance premiums; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_15__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>An acceptable plan of repayment, to the state, of the tax credits provided for the megaproject has been provided by the taxpayer;</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_16">
+          <akn:num>(16)</akn:num>
+          <akn:content>
+            <akn:p>"NAICS"
+, the 1997 edition of the North American Industry Classification System as prepared by the Executive Office of the President, Office of Management and Budget. Any NAICS sector, subsector, industry group or industry identified in this section shall include its corresponding classification in subsequent federal industry classification systems;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_17">
+          <akn:num>(17)</akn:num>
+          <akn:content>
+            <akn:p>"New business facility"
+, a facility that does not produce or generate electrical energy from a renewable energy resource and satisfies the following requirements:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_950__subsec_17__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Such facility is employed by the taxpayer in the operation of an enhanced business enterprise. Such facility shall not be considered a new business facility in the hands of the taxpayer if the taxpayer's only activity with respect to such facility is to lease it to another person or persons.  If the taxpayer employs only a portion of such facility in the operation of an enhanced business enterprise, and leases another portion of such facility to another person or persons or does not otherwise use such other portions in the operation of an enhanced business enterprise, the portion employed by the taxpayer in the operation of an enhanced business enterprise shall be considered a new business facility, if the requirements of paragraphs</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_17__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>of this subdivision are satisfied;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_17__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Such facility is acquired by, or leased to, the taxpayer after December 31, 2004. A facility shall be deemed to have been acquired by, or leased to, the taxpayer after December 31, 2004, if the transfer of title to the taxpayer, the transfer of possession pursuant to a binding contract to transfer title to the taxpayer, or the commencement of the term of the lease to the taxpayer occurs after December 31, 2004;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_17__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>If such facility was acquired by the taxpayer from another taxpayer and such facility was employed immediately prior to the acquisition by another taxpayer in the operation of an enhanced business enterprise, the operation of the same or a substantially similar enhanced business enterprise is not continued by the taxpayer at such facility; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_17__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Such facility is not a replacement business facility, as defined in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_27">
+          <akn:num>(27)</akn:num>
+          <akn:content>
+            <akn:p>of this section;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_18">
+          <akn:num>(18)</akn:num>
+          <akn:content>
+            <akn:p>"New business facility employee"
+, an employee of the taxpayer in the operation of a new business facility during the taxable year for which the credit allowed by section
+135.967
+is claimed, except that truck drivers and rail and barge vehicle operators and other operators of rolling stock for hire shall not constitute new business facility employees;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_19">
+          <akn:num>(19)</akn:num>
+          <akn:content>
+            <akn:p>"New business facility investment"
+, the value of real and depreciable tangible personal property, acquired by the taxpayer as part of the new business facility, which is used by the taxpayer in the operation of the new business facility, during the taxable year for which the credit allowed by
+135.967
+is claimed, except that trucks, truck-trailers, truck semitrailers, rail vehicles, barge vehicles, aircraft and other rolling stock for hire, track, switches, barges, bridges, tunnels, and rail yards and spurs shall not constitute new business facility investments.  The total value of such property during such taxable year shall be:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_950__subsec_19__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Its original cost if owned by the taxpayer; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_19__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Eight times the net annual rental rate, if leased by the taxpayer.  The net annual rental rate shall be the annual rental rate paid by the taxpayer less any annual rental rate received by the taxpayer from subrentals.  The new business facility investment shall be determined by dividing by twelve the sum of the total value of such property on the last business day of each calendar month of the taxable year.  If the new business facility is in operation for less than an entire taxable year, the new business facility investment shall be determined by dividing the sum of the total value of such property on the last business day of each full calendar month during the portion of such taxable year during which the new business facility was in operation by the number of full calendar months during such period;</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_20">
+          <akn:num>(20)</akn:num>
+          <akn:content>
+            <akn:p>"New job"
+, the number of employees located at the facility that exceeds the facility base employment less any decrease in the number of the employees at related facilities below the related facility base employment.  No job that was created prior to the date of the notice of intent shall be deemed a new job;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_21">
+          <akn:num>(21)</akn:num>
+          <akn:content>
+            <akn:p>"Notice of intent"
+, a form developed by the department which is completed by the enhanced business enterprise and submitted to the department which states the enhanced business enterprise's intent to hire new jobs and request benefits under such program;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_22">
+          <akn:num>(22)</akn:num>
+          <akn:content>
+            <akn:p>"Related facility"
+, a facility operated by the enhanced business enterprise or a related company in this state that is directly related to the operation of the project facility;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_23">
+          <akn:num>(23)</akn:num>
+          <akn:content>
+            <akn:p>"Related facility base employment"
+, the greater of:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_950__subsec_23__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The number of employees located at all related facilities on the date of the notice of intent; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_23__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>For the twelve-month period prior to the date of the notice of intent, the average number of employees located at all related facilities of the enhanced business enterprise or a related company located in this state;</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_24">
+          <akn:num>(24)</akn:num>
+          <akn:content>
+            <akn:p>"Related taxpayer"
+:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_950__subsec_24__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>A corporation, partnership, trust, or association controlled by the taxpayer;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_24__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>An individual, corporation, partnership, trust, or association in control of the taxpayer; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_24__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>A corporation, partnership, trust or association controlled by an individual, corporation, partnership, trust or association in control of the taxpayer.
+"Control of a corporation"
+shall mean ownership, directly or indirectly, of stock possessing at least fifty percent of the total combined voting power of all classes of stock entitled to vote,
+"control of a partnership or association"
+shall mean ownership of at least fifty percent of the capital or profits interest in such partnership or association, and
+"control of a trust"
+shall mean ownership, directly or indirectly, of at least fifty percent of the beneficial interest in the principal or income of such trust; ownership shall be determined as provided in Section 318 of the Internal Revenue Code of 1986, as amended;</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_25">
+          <akn:num>(25)</akn:num>
+          <akn:content>
+            <akn:p>"Renewable energy generation zone"
+, an area which has been found, by a resolution or ordinance adopted by the governing authority having jurisdiction of such area, to be a blighted area and which contains land, improvements, or a lock and dam site which is unutilized or underutilized for the production, generation, conversion, and conveyance of electrical energy from a renewable energy resource;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_26">
+          <akn:num>(26)</akn:num>
+          <akn:content>
+            <akn:p>"Renewable energy resource"
+, shall include:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Wind;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Solar thermal sources or photovoltaic cells and panels;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Dedicated crops grown for energy production;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Cellulosic agricultural residues;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Plant residues;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>Methane from landfills, agricultural operations, or wastewater treatment;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>Thermal depolymerization or pyrolysis for converting waste material to energy;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>Clean and untreated wood such as pallets;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Hydroelectric power, which shall include electrical energy produced or generated by hydroelectric power generating equipment, as such term is defined in section
+137.010
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_j">
+            <akn:num>(j)</akn:num>
+            <akn:content>
+              <akn:p>Fuel cells using hydrogen produced by one or more of the renewable resources provided in paragraphs</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>to</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>of this subdivision; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_26__subsec_k">
+            <akn:num>(k)</akn:num>
+            <akn:content>
+              <akn:p>Any other sources of energy, not including nuclear energy, that are certified as renewable by rule by the department of economic development;</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_27">
+          <akn:num>(27)</akn:num>
+          <akn:content>
+            <akn:p>"Replacement business facility"
+, a facility otherwise described in subdivision</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_17">
+          <akn:num>(17)</akn:num>
+          <akn:content>
+            <akn:p>of this section, hereafter referred to in this subdivision as "new facility", which replaces another facility, hereafter referred to in this subdivision as "old facility", located within the state, which the taxpayer or a related taxpayer previously operated but discontinued operating on or before the close of the first taxable year for which the credit allowed by this section is claimed.  A new facility shall be deemed to replace an old facility if the following conditions are met:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_950__subsec_17__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The old facility was operated by the taxpayer or a related taxpayer during the taxpayer's or related taxpayer's taxable period immediately preceding the taxable year in which commencement of commercial operations occurs at the new facility; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_950__subsec_17__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The old facility was employed by the taxpayer or a related taxpayer in the operation of an enhanced business enterprise and the taxpayer continues the operation of the same or substantially similar enhanced business enterprise at the new facility.  Notwithstanding the preceding provisions of this subdivision, a facility shall not be considered a replacement business facility if the taxpayer's new business facility investment, as computed in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_19">
+          <akn:num>(19)</akn:num>
+          <akn:content>
+            <akn:p>of this section, in the new facility during the tax period for which the credits allowed in section
+135.967
+are claimed exceed one million dollars and if the total number of employees at the new facility exceeds the total number of employees at the old facility by at least two;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_950__subsec_28">
+          <akn:num>(28)</akn:num>
+          <akn:content>
+            <akn:p>"Same or substantially similar enhanced business enterprise"
+, an enhanced business enterprise in which the nature of the products produced or sold, or activities conducted, are similar in character and use or are produced, sold, performed, or conducted in the same or similar manner as in another enhanced business enterprise.
+­­--------
+(L. 2004 S.B. 1155 § 135.1050, A.L. 2007 1st Ex. Sess. H.B. 1, A.L. 2008 H.B. 2393, A.L. 2011 H.B. 737, A.L. 2018 S.B. 975 &amp; 1024 Revision, A.L. 2021 S.B. 153 &amp; 97)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

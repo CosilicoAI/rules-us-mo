@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-136.030">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.030" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.030" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="136.030" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.030/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.030/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-136.030/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-136.030/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=136.030</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_136_030">
+        <akn:num>136.030</akn:num>
+        <akn:heading>Section 136.030</akn:heading>
+        <akn:subsection eId="sec_136_030__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>Organize the division of taxation and collection in such manner as he may deem necessary for its most efficient operation;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_030__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>Make provisions for the collection of the state income tax, estate tax, motor vehicle drivers' license tax, motor vehicle registration fees, motor vehicle fuel tax, sales and use tax and all other taxes;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_030__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>Arrange, administer and organize the division of taxation and collection so that employees may be interchangeable in work assignment, to the end that they may be shifted within the division of taxation and collection to meet seasonal and temporary demands and that the number of such employees shall be kept to the minimum consistent with efficient operation; and</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_136_030__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>Centralize all record keeping, filing, payroll and other services required by the division of taxation and collection.
+­­--------
+(L. 1945 p. 1428 § 16, A.L. 1947 V. I p. 479, A. 1949 S.B. 1020, A.L. 1965 p. 139)
+CROSS REFERENCE:
+Reimbursement of political subdivisions for loss of tax on household goods, how computed--duties of director of revenue and of state tax commission, 21.505</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

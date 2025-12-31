@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.460">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.460" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.460" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.460" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.460/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.460/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.460/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.460/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.460</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_460">
+        <akn:num>135.460</akn:num>
+        <akn:heading>Section 135.460</akn:heading>
+        <akn:subsection eId="sec_135_460__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  This section and sections
+620.1100
+and
+620.1103
+shall be known and may be cited as the "Youth Opportunities and Violence Prevention Act".</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  As used in this section, the term
+"taxpayer"
+shall include corporations as defined in section
+143.441
+or
+143.471
+, any charitable organization which is exempt from federal income tax and whose Missouri unrelated business taxable income, if any, would be subject to the state income tax imposed under
+chapter 143
+, and individuals, individual proprietorships and partnerships.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  A taxpayer shall be allowed a tax credit against the tax otherwise due pursuant to
+chapter 143
+, excluding withholding tax imposed by sections
+143.191 to 143.265
+,
+chapter 147
+,
+chapter 148
+, or
+chapter 153
+in an amount equal to thirty percent for property contributions and seventy percent for monetary contributions of the amount such taxpayer contributed to the programs described in subsection 5 of this section, not to exceed two hundred thousand dollars per taxable year, per taxpayer; except as otherwise provided in subdivision</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_460__subsec_3__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>of subsection 5 of this section.  The department of economic development shall prescribe the method for claiming the tax credits allowed in this section.  No rule or portion of a rule promulgated under the authority of this section shall become effective unless it has been promulgated pursuant to the provisions of
+chapter 536
+.  All rulemaking authority delegated prior to June 27, 1997, is of no force and effect and repealed; however, nothing in this section shall be interpreted to repeal or affect the validity of any rule filed or adopted prior to June 27, 1997, if such rule complied with the provisions of
+chapter 536
+.  The provisions of this section and
+chapter 536
+are nonseverable and if any of the powers vested with the general assembly pursuant to
+chapter 536
+, including the ability to review, to delay the effective date, or to disapprove and annul a rule or portion of a rule, are subsequently held unconstitutional, then the purported grant of rulemaking authority and any rule so proposed and contained in the order of rulemaking shall be invalid and void.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The tax credits allowed by this section shall be claimed by the taxpayer to offset the taxes that become due in the taxpayer's tax period in which the contribution was made.  Any tax credit not used in such tax period may be carried over the next five succeeding tax periods.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  The tax credit allowed by this section may only be claimed for monetary or property contributions to public or private programs authorized to participate pursuant to this section by the department of economic development and may be claimed for the development, establishment, implementation, operation, and expansion of the following activities and programs:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An adopt-a-school program.  Components of the adopt-a-school program shall include donations for school activities, seminars, and functions; school-business employment programs; and the donation of property and equipment of the corporation to the school;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Expansion of programs to encourage school dropouts to reenter and complete high school or to complete a graduate equivalency degree program;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Employment programs.  Such programs shall initially, but not exclusively, target unemployed youth living in poverty and youth living in areas with a high incidence of crime;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>New or existing youth clubs or associations;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>Employment/internship/apprenticeship programs in business or trades for persons less than twenty years of age, in which case the tax credit claimed pursuant to this section shall be equal to one-half of the amount paid to the intern or apprentice in that tax year, except that such credit shall not exceed ten thousand dollars per person;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>Mentor and role model programs;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>Drug and alcohol abuse prevention training programs for youth;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>Donation of property or equipment of the taxpayer to schools, including schools which primarily educate children who have been expelled from other schools, or donation of the same to municipalities, or not-for-profit corporations or other not-for-profit organizations which offer programs dedicated to youth violence prevention as authorized by the department;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>Not-for-profit, private or public youth activity centers;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>Nonviolent conflict resolution and mediation programs;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_5__subsec_11">
+            <akn:num>(11)</akn:num>
+            <akn:content>
+              <akn:p>Youth outreach and counseling programs.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  Any program authorized in subsection 5 of this section shall, at least annually, submit a report to the department of economic development outlining the purpose and objectives of such program, the number of youth served, the specific activities provided pursuant to such program, the duration of such program and recorded youth attendance where applicable.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  The department of economic development shall, at least annually submit a report to the Missouri general assembly listing the organizations participating, services offered and the number of youth served as the result of the implementation of this section.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_8">
+          <akn:num>(8)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>8.  The tax credit allowed by this section shall apply to all taxable years beginning after December 31, 1995.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_9">
+          <akn:num>(9)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_460__subsec_9">
+          <akn:num>(9)</akn:num>
+          <akn:content>
+            <akn:p>9.  For the purposes of the credits described in this section, in the case of a corporation described in section
+143.471
+, partnership, limited liability company described in section
+347.015
+, cooperative, marketing enterprise, or partnership, in computing Missouri's tax liability, such credits shall be allowed to the following:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_460__subsec_9__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The shareholders of the corporation described in section
+143.471
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_9__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The partners of the partnership;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_9__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The members of the limited liability company; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_9__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Individual members of the cooperative or marketing enterprise.
+­­
+­
+Such credits shall be apportioned to the entities described in subdivisions</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_9__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_460__subsec_9__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this subsection in proportion to their share of ownership on the last day of the taxpayer's tax period.
+­­--------
+(L. 1995 H.B. 174, et al. §§ 11, 12, A.L. 1997 2d Ex. Sess. S.B. 1, A.L. 2007 1st Ex. Sess H.B. 1, A.L. 2025 H.B. 737 &amp; 486 merged with S.B. 43)
+CROSS REFERENCE:
+Tax Credit Accountability Act of 2004, additional requirements,
+135.800 to 135.830</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>
