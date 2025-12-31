@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.484">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.484" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.484" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.484" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.484/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.484/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.484/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.484/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.484</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_484">
+        <akn:num>135.484</akn:num>
+        <akn:heading>Section 135.484</akn:heading>
+        <akn:subsection eId="sec_135_484__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_484__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  Beginning January 1, 2000, tax credits shall be allowed pursuant to section
+135.481
+in an amount not to exceed sixteen million dollars per year.  Of this total amount of tax credits in any given year, eight million dollars shall be set aside for projects in areas described in subdivision</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_484__subsec_1__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.478
+and eight million dollars for projects in areas described in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_484__subsec_1__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.478
+.  The maximum tax credit for a project consisting of multiple-unit qualifying residences in a distressed community shall not exceed three million dollars.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_484__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_484__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  Any amount of credit which exceeds the tax liability of a taxpayer for the tax year in which the credit is first claimed may be carried back to any of the taxpayer's three prior tax years and carried forward to any of the taxpayer's five subsequent tax years.  A certificate of tax credit issued to a taxpayer by the department may be assigned, transferred, sold or otherwise conveyed.  Whenever a certificate of tax credit is assigned, transferred, sold or otherwise conveyed, a notarized endorsement shall be filed with the department specifying the name and address of the new owner of the tax credit and the value of the credit.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_484__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_484__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  The tax credits allowed pursuant to sections
+135.475 to 135.487
+may not be claimed in addition to any other state tax credits, with the exception of the historic structures rehabilitation tax credit authorized pursuant to sections
+253.545 to 253.559
+, which insofar as sections
+135.475 to 135.487
+are concerned may be claimed only in conjunction with the tax credit allowed pursuant to subsection 4 of section
+135.481
+.  In order for a taxpayer eligible for the historic structures rehabilitation tax credit to claim the tax credit allowed pursuant to subsection 4 of section
+135.481
+, the taxpayer must comply with the requirements of sections
+253.545 to 253.559
+, and in such cases, the amount of the tax credit pursuant to subsection 4 of section
+135.481
+shall be limited to the lesser of twenty percent of the taxpayer's eligible costs or forty thousand dollars.
+­­--------
+(L. 1999 S.B. 20 § 4, A.L. 2000 S.B. 894)</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_484__subsec_3__subsec_2002">
+            <akn:num>(2002)</akn:num>
+            <akn:content>
+              <akn:p>Senate Bill 894 provision declared unconstitutional as a violation of the clear title requirement of Art. III, Section 23. Home Builders of Greater St. Louis v. State, 75 S.W.3d 267 (Mo.banc).</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

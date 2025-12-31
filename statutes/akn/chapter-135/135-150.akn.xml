@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.150">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.150" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.150" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.150" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.150/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.150/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.150/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.150/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.150</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_150">
+        <akn:num>135.150</akn:num>
+        <akn:heading>and is therefore eligible to claim the credits</akn:heading>
+        <akn:subsection eId="sec_135_150__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  Until January 1, 1987, the director of revenue shall prescribe such rules and regulations necessary to carry out the provisions of sections
+135.100 to 135.150
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  Beginning January 1, 1987, the director of economic development shall prescribe the method for submitting applications for claiming the tax credits allowed in subsections 2 and 3 of section
+135.110
+and shall, if such application or portion thereof is approved, certify same to the director of revenue or the director of the department of commerce and insurance that the taxpayer claiming the credits has satisfied all requirements prescribed in sections
+135.100 to 135.150
+and is therefore eligible to claim the credits.  The director of economic development shall also calculate and specify the amount of the credit earned by the taxpayer during the taxpayer's first taxable year in which such credits are claimed and for each of the nine succeeding taxable years the credits are claimed by the taxpayer and shall certify such amounts to the director of revenue or the director of the department of commerce and insurance and shall notify the taxpayer in writing of the action taken on his request for the credits and if the request for credits is disallowed, the director of economic development shall state the reason or reasons the claim for credit was disallowed.  The director shall certify the extent to which earned credits can be claimed to the director of revenue or the director of the department of commerce and insurance and shall notify the taxpayer in writing of such determination.  The director of economic development may prescribe such rules and regulations necessary to carry out the provisions of sections
+135.100 to 135.150
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  The director of revenue and, when appropriate, the director of the department of commerce and insurance may prescribe rules and regulations necessary to process the credits following certification by the director of economic development.  No rule or portion of a rule promulgated under the authority of sections
+135.100 to 135.160
+*
+shall become effective unless it has been promulgated pursuant to the provisions of section
+536.024
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  Any taxpayer who has submitted an application for claiming tax credits as allowed in section
+135.110
+may file with the director of economic development, a protest within sixty days (one hundred fifty days if the taxpayer is outside the United States) after the date of such certification notice or the date of the notice denying such certification.  The protest shall be in writing and shall set forth the grounds on which the protest is based.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  If a protest is filed, the director of economic development shall consider the taxpayer's grounds for protest and make a determination concerning such protest.  The director of economic development shall notify the taxpayer in writing of such determination within thirty days following the date on which the written protest was received.  Such notice shall be mailed to the taxpayer by certified or registered mail and such notice shall set forth briefly the director of economic development's findings of fact and the basis of decision.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_150__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  The decision of the director of economic development on the taxpayer's protest is final upon the expiration of thirty days from the date when he mails notice of his action to the taxpayer unless within this period, the taxpayer seeks review of the director of economic development's determination by the administrative hearing commission, which is hereby authorized.
+­­--------
+(L. 1980 S.B. 644 § 6, A.L. 1986 S.B. 727, A.L. 1991 H.B. 294 &amp; 405, A.L. 1993 H.B. 566 merged with S.B. 52, A.L. 1995 S.B. 3)
+*Section 135.160 was repealed by H.B. 294 &amp; 405 § A, 1991.</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

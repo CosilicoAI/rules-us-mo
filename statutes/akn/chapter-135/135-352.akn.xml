@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.352">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.352" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.352" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.352" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.352/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.352/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.352/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.352/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.352</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_352">
+        <akn:num>135.352</akn:num>
+        <akn:heading>Section 135.352</akn:heading>
+        <akn:subsection eId="sec_135_352__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  A taxpayer owning an interest in a qualified Missouri project shall, subject to the limitations provided under the provisions of subsection 3 of this section, be allowed a state tax credit, whether or not allowed a federal tax credit, to be termed the Missouri low-income housing tax credit, if the commission issues an eligibility statement for that project.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  For qualified Missouri projects placed in service after January 1, 1997, the Missouri low-income housing tax credit available to a project shall be such amount as the commission shall determine is necessary to ensure the feasibility of the project, up to an amount equal to the federal low-income housing tax credit for a qualified Missouri project, for a federal tax period, and such amount shall be subtracted from the amount of state tax otherwise due for the same tax period.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  No more than six million dollars in tax credits shall be authorized each fiscal year for projects financed through tax-exempt bond issuance.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The Missouri low-income housing tax credit shall be taken against the taxes and in the order specified pursuant to section
+32.115
+.  The credit authorized by this section shall not be refundable.  Any amount of credit that exceeds the tax due for a taxpayer's taxable year may be carried back to any of the taxpayer's three prior taxable years or carried forward to any of the taxpayer's five subsequent taxable years.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  All or any portion of Missouri tax credits issued in accordance with the provisions of sections
+135.350 to 135.362
+may be allocated to parties who are eligible pursuant to the provisions of subsection 1 of this section.  Beginning January 1, 1995, for qualified projects which began on or after January 1, 1994, an owner of a qualified Missouri project shall certify to the director the amount of credit allocated to each taxpayer.  The owner of the project shall provide to the director appropriate information so that the low-income housing tax credit can be properly allocated.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  In the event that recapture of Missouri low-income housing tax credits is required pursuant to subsection 2 of section
+135.355
+, any statement submitted to the director as provided in this section shall include the proportion of the state credit required to be recaptured, the identity of each taxpayer subject to the recapture and the amount of credit previously allocated to such taxpayer.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_352__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  The director of the department may promulgate rules and regulations necessary to administer the provisions of this section.  No rule or portion of a rule promulgated pursuant to the authority of this section shall become effective unless it has been promulgated pursuant to the provisions of section
+536.024
+.
+­­--------
+(L. 1990 H.B. 960 § 3 subsec. 2 subdivs. (1), (2), A.L. 1991 S.B. 185, A.L. 1993 H.B. 566, A.L. 1994 H.B. 1745, A.L. 1995 S.B. 3, A.L. 1997 H.B. 578, A.L. 2009 H.B. 191)
+CROSS REFERENCE:
+Rulemaking authority, effective when, null and void, when, see 135.361.</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

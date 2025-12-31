@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.432">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.432" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.432" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.432" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.432/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.432/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.432/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.432/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.432</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_432">
+        <akn:num>135.432</akn:num>
+        <akn:heading>Section 135.432</akn:heading>
+        <akn:subsection eId="sec_135_432__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  The department of economic development shall promulgate such rules and regulations as are necessary to implement the provisions of sections
+135.400 to 135.430
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  No rule or portion of a rule promulgated under the authority of this chapter shall become effective until it has been approved by the joint committee on administrative rules in accordance with the procedures provided in this section, and the delegation of the legislative authority to enact law by the adoption of such rules is dependent upon the power of the joint committee on administrative rules to review and suspend rules pending ratification by the senate and the house of representatives as provided in this section.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  Upon filing any proposed rule with the secretary of state, the department shall concurrently submit such proposed rule to the committee, which may hold hearings upon any proposed rule or portion thereof at any time.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  A final order of rulemaking shall not be filed with the secretary of state until thirty days after such final order of rulemaking has been received by the committee.  The committee may hold one or more hearings upon such final order of rulemaking during the thirty-day period.  If the committee does not disapprove such order of rulemaking within the thirty-day period, the department may file such order of rulemaking with the secretary of state and the order of rulemaking shall be deemed approved.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  The committee may, by majority vote of the members, suspend the order of rulemaking or portion thereof by action taken prior to the filing of the final order of rulemaking only for one or more of the following grounds:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_432__subsec_5__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>An absence of statutory authority for the proposed rule;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_432__subsec_5__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>An emergency relating to public health, safety or welfare;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_432__subsec_5__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>The proposed rule is in conflict with state law;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_432__subsec_5__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>A substantial change in circumstance since enactment of the law upon which the proposed rule is based.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  If the committee disapproves any rule or portion thereof, the department shall not file such disapproved portion of any rule with the secretary of state and the secretary of state shall not publish in the Missouri Register any final order of rulemaking containing the disapproved portion.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  If the committee disapproves any rule or portion thereof, the committee shall report its findings to the senate and the house of representatives.  No rule or portion thereof disapproved by the committee shall take effect so long as the senate and the house of representatives ratify the act of the joint committee by resolution adopted in each house within thirty legislative days after such rule or portion thereof has been disapproved by the joint committee.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_8">
+          <akn:num>(8)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_432__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>8.  Upon adoption of a rule as provided in this section, any such rule or portion thereof may be suspended or revoked by the general assembly either by bill or, pursuant to Section 8, Article IV of the Constitution of Missouri, by concurrent resolution upon recommendation of the joint committee on administrative rules.  The committee shall be authorized to hold hearings and make recommendations pursuant to the provisions of section
+536.037
+. The secretary of state shall publish in the Missouri Register, as soon as practicable, notice of the suspension or revocation.
+­­--------
+(L. 1995 H.B. 414)
+Effective 7-05-95</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

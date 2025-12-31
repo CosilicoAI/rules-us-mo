@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.276">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.276" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.276" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.276" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.276/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.276/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.276/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.276/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.276</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_276">
+        <akn:num>135.276</akn:num>
+        <akn:heading>to 135</akn:heading>
+        <akn:subsection eId="sec_135_276__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>"Continuation of commercial operations"
+shall be deemed to occur during the first taxable year following the taxable year during which the business entered into an agreement with the department pursuant to section
+135.283
+in order to receive the tax exemption, tax credits and refundable credits authorized by sections
+135.276 to 135.283
+;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_276__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>"Department"
+, the department of economic development;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_276__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>"Director"
+, the director of the department of economic development;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_276__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>"Enterprise zone"
+, an enterprise zone created under section
+135.210
+that includes all or part of a home rule city with more than twenty-six thousand but less than twenty-seven thousand inhabitants located in any county with a charter form of government and with more than one million inhabitants;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_276__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>"Facility"
+, any building used as a revenue-producing enterprise located within an enterprise zone, including the land on which the facility is located and all machinery, equipment, and other real and depreciable tangible personal property acquired for use at and located at or within such facility and used in connection with the operation of such facility;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_276__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>"NAICS"
+, the industrial classification as such classifications are defined in the 1997 edition of the North American Industrial Classification System Manual as prepared by the Executive Office of the President, Office of Management and Budget;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_276__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>"Retained business facility"
+, a facility in an enterprise zone operated by the taxpayer which satisfies the following requirements as determined by the department and included in an agreement with the department:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_276__subsec_7__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The taxpayer agrees to a capital investment project at the facility of at least five hundred million dollars to take place over a period of two consecutive taxable years ending no later than the fifth taxable year after continuation of commercial operations;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_276__subsec_7__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The taxpayer has maintained at least two thousand employees per year at the facility for each of the five taxable years preceding the year of continuation of commercial operations;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_276__subsec_7__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>The taxpayer agrees to maintain at least the level of employment that it had at the facility in the taxable year immediately preceding the year of continuation of commercial operations for ten consecutive taxable years beginning with the year of the continuation of commercial operations.  Temporary layoffs necessary to implement the capital investment project will not be considered a violation of this requirement;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_276__subsec_7__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>The taxpayer agrees that the amount of the average wage paid by the taxpayer at the facility will exceed the average wage paid within the county in which the facility is located for ten consecutive taxable years beginning with the year of the continuation of commercial operations;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_276__subsec_7__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Significant local incentives with respect to the project or retained facility have been committed, which incentives may consist of:
+a.  Cash or in-kind incentives derived from any nonstate source, including incentives provided by the affected political subdivisions, private industry and/or local chambers of commerce or similar such organizations; or
+b.  Relief from local taxes;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_276__subsec_7__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>Receipt of the tax exemption, tax credits, and refunds are major factors in the taxpayer's decision to retain its operations at the facility in Missouri and go forward with the capital investment project and not receiving the exemption, credits, and refunds will result in the taxpayer moving its operations out of Missouri; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_276__subsec_7__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>There is at least one other state that the taxpayer verifies is being considered as the site to which the facility's operations will be relocated;</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_276__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>"Retained business facility employee"
+, a person employed by the taxpayer in the operation of a retained business facility during the taxable year for which the credit allowed by section
+135.279
+is claimed, except that truck drivers and rail and barge vehicle operators shall not constitute retained business facility employees.  A person shall be deemed to be so employed if such person performs duties in connection with the operation of the retained business facility on a regular, full-time basis.  The number of retained business facility employees during any taxable year shall be determined by dividing by twelve the sum of the number of individuals employed on the last business day of each month of such taxable year.  If the retained business facility is in operation for less than the entire taxable year, the number of retained business facility employees shall be determined by dividing the sum of the number of individuals employed on the last business day of each full calendar month during the portion of such taxable year during which the retained business facility was in operation by the number of full calendar months during such period;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_276__subsec_9">
+          <akn:num>(9)</akn:num>
+          <akn:content>
+            <akn:p>"Retained business facility income"
+, the Missouri taxable income, as defined in
+chapter 143
+, derived by the taxpayer from the operation of the retained business facility.  If a taxpayer has income derived from the operation of a retained business facility as well as from other activities conducted within this state, the Missouri taxable income derived by the taxpayer from the operation of the retained business facility shall be determined by multiplying the taxpayer's Missouri taxable income, computed in accordance with
+chapter 143
+, by a fraction, the numerator of which is the property factor, as defined in paragraph</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_276__subsec_9__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>of this subdivision, plus the payroll factor, as defined in paragraph</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_276__subsec_9__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>of this subdivision, and the denominator of which is two:</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_276__subsec_9__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>The
+"property factor"
+is a fraction, the numerator of which is the retained business facility investment certified for the tax period, and the denominator of which is the average value of all the taxpayer's real and depreciable tangible personal property owned or rented and used in this state during the tax period.  The average value of all such property shall be determined as provided in
+chapter 32
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_276__subsec_9__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>The
+"payroll factor"
+is a fraction, the numerator of which is the total amount paid during the tax period by the taxpayer for compensation to persons qualifying as retained business facility employees at the retained business facility, and the denominator of which is the total amount paid in this state during the tax period by the taxpayer for compensation.  The compensation paid in this state shall be determined as provided in
+chapter 32
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_276__subsec_10">
+          <akn:num>(10)</akn:num>
+          <akn:content>
+            <akn:p>"Retained business facility investment"
+, the value of real and depreciable tangible personal property, acquired by the taxpayer as part of the retained business facility after the date of continuation of commercial operations, which is used by the taxpayer in the operation of the retained business facility, during the taxable year for which the credit allowed by section
+135.279
+is claimed, except that trucks, truck-trailers, truck semitrailers, rail vehicles, barge vehicles, aircraft and other rolling stock for hire, track, switches, barges, bridges, tunnels, rail yards, and spurs shall not constitute retained business facility investments.  The total value of such property during such taxable year shall be:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_276__subsec_10__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Its original cost if owned by the taxpayer; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_276__subsec_10__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Eight times the net annual rental rate, if leased by the taxpayer. The net annual rental rate shall be the annual rental rate paid by the taxpayer less any annual rental rate received by the taxpayer from subrentals.  The retained business facility investment shall be determined by dividing by twelve the sum of the total value of such property on the last business day of each calendar month of the taxable year.  If the retained business facility is in operation for less than an entire taxable year, the retained business facility investment shall be determined by dividing the sum of the total value of such property on the last business day of each full calendar month during the portion of such taxable year during which the retained business facility was in operation by the number of full calendar months during such period;</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_276__subsec_11">
+          <akn:num>(11)</akn:num>
+          <akn:content>
+            <akn:p>"Revenue-producing enterprise"
+, manufacturing activities classified as NAICS 336211.
+­­--------
+(L. 2003 H.B. 289 merged with S.B. 620)
+Effective 6-18-03 (S.B. 620); 7-07-03 (H.B. 289)
+Contingent expiration date, see § 135.284</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

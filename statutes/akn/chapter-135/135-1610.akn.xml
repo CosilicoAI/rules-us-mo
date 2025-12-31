@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.1610">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.1610" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.1610" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.1610" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.1610/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.1610/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.1610/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.1610/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.1610</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_1610">
+        <akn:num>135.1610</akn:num>
+        <akn:heading>Section 135.1610</akn:heading>
+        <akn:subsection eId="sec_135_1610__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  As used in this section, the following terms mean:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_1610__subsec_1__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Eligible expenses"
+, expenses incurred in the construction or development of establishing or improving an urban farm in an urban area.  The term eligible expenses shall not include any expense for labor or any expense incurred to grow medical marijuana or industrial hemp;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_1610__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Tax credit"
+, a credit against the tax otherwise due under
+chapter 143
+, excluding withholding tax imposed under sections
+143.191 to 143.265
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_1610__subsec_1__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Taxpayer"
+, any individual, partnership, or corporation as described under section
+143.441
+or
+143.471
+that is subject to the tax imposed under
+chapter 143
+, excluding withholding tax imposed under sections
+143.191 to 143.265
+, or any charitable organization that is exempt from federal income tax and whose Missouri unrelated business taxable income, if any, would be subject to the state income tax imposed under
+chapter 143
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_1610__subsec_1__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Urban area"
+, an urbanized area as defined by the United States Census Bureau;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_1610__subsec_1__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Urban farm"
+, an agricultural plot or facility in an urban area that produces agricultural food products used solely for distribution to the public by sale or donation.  Urban farm shall include community-run gardens.  Urban farm shall not include personal farms or residential lots for personal use.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  For all tax years beginning on or after January 1, 2023, a taxpayer shall be allowed to claim a tax credit against the taxpayer's state tax liability in an amount equal to fifty percent of the taxpayer's eligible expenses for establishing or improving an urban farm that focuses on food production.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  The amount of the tax credit claimed shall not exceed the amount of the taxpayer's state tax liability in the tax year for which the credit is claimed, and the taxpayer shall not be allowed to claim a tax credit under this section in excess of five thousand dollars for each urban farm.  The total amount of tax credits that may be authorized for all taxpayers for eligible expenses incurred on any given urban farm shall not exceed twenty-five thousand dollars.  Any issued tax credit that cannot be claimed in the tax year in which the eligible expenses were incurred may be carried over to the next three succeeding tax years until the full credit is claimed.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The total amount of tax credits that may be authorized under this section shall not exceed two hundred thousand dollars in any calendar year.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  Tax credits issued under the provisions of this section shall not be transferred, sold, or assigned.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  The Missouri agricultural and small business development authority shall recapture the amount of tax credits issued to any taxpayer who, after receiving such tax credit, uses the urban farm for the personal benefit of the taxpayer instead of for producing agricultural food products used solely for distribution to the public by sale or donation.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  The Missouri agricultural and small business development authority may promulgate rules to implement the provisions of this section.  Any rule or portion of a rule, as that term is defined in section
+536.010
+, that is created under the authority delegated in this section shall become effective only if it complies with and is subject to all of the provisions of
+chapter 536
+and, if applicable, section
+536.028
+.  This section and
+chapter 536
+are nonseverable and if any of the powers vested with the general assembly pursuant to
+chapter 536
+to review, to delay the effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of rulemaking authority and any rule proposed or adopted after January 2, 2023, shall be invalid and void.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_8">
+          <akn:num>(8)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_1610__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>8.  Under section
+23.253
+of the Missouri sunset act:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_1610__subsec_8__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The program authorized under this section shall automatically sunset on December 31, 2028, unless reauthorized by an act of the general assembly;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_1610__subsec_8__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If such program is reauthorized, the program authorized under this section shall automatically sunset on December thirty-first twelve years after the effective date of the reauthorization of this section;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_1610__subsec_8__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>This section shall terminate on September first of the calendar year immediately following the calendar year in which the program authorized under this section is sunset; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_1610__subsec_8__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Nothing in this subsection shall prevent a taxpayer from claiming a tax credit properly issued before the program was sunset in a tax year after the program is sunset.
+­­--------
+(L. 2022 1st Ex. Sess. H.B. 3)
+Effective 1-02-23
+Sunset date 12-31-28
+Termination date 9-01-29</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

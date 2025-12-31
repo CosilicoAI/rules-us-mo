@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.713">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.713" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.713" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.713" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.713/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.713/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.713/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.713/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.713</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_713">
+        <akn:num>135.713</akn:num>
+        <akn:heading>Section 135.713</akn:heading>
+        <akn:subsection eId="sec_135_713__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_713__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  Any taxpayer who makes a qualifying contribution to an educational assistance organization after August 28, 2021, may claim a credit against the tax otherwise due under
+chapter 143
+, other than taxes withheld under sections
+143.191 to 143.265
+, and
+chapter 153
+in an amount equal to one hundred percent of the amount the taxpayer contributed during the tax year for which the credit is claimed.  No taxpayer shall claim a credit pursuant to sections
+135.712 to 135.719
+for any contribution made by the taxpayer, or an agent of the taxpayer, on behalf of the taxpayer's dependent or, in the case of a business taxpayer, on behalf of the business's agent's dependent.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_713__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_713__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  The amount of the tax credit claimed shall not exceed fifty percent of the taxpayer's state tax liability for the tax year for which the credit is claimed.  The state treasurer shall certify the tax credit amount to the taxpayer.  A taxpayer may carry the credit forward to any of his or her four subsequent tax years.  All tax credits authorized pursuant to the program shall not be transferred, sold, or assigned, and are not refundable.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_713__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_713__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  The cumulative amount of tax credits that may be allocated to all taxpayers contributing to educational assistance organizations in any one calendar year shall not exceed a maximum of seventy-five million dollars.  Such maximum amount shall be annually adjusted by the state treasurer in an amount equal to the percent increase or decrease in the amount of state aid distributed to school districts pursuant to the provisions of section
+163.031
+in the current fiscal year as compared to such amount in the preceding fiscal year, rounded to the nearest thousandth.  The state treasurer shall establish a procedure by which, from the beginning of the calendar year until August first, the cumulative amount of tax credits shall be allocated on a first-come, first-served basis among all educational assistance organizations.  If an educational assistance organization fails to use all, or some percentage to be determined by the state treasurer, of its allocated tax credits during this period, the state treasurer may reallocate these unused tax credits to those educational assistance organizations that have used all, or some percentage to be determined by the state treasurer, of their allocated tax credits during this period.  The state treasurer may establish more than one period and reallocate more than once during each calendar year.  The state treasurer shall establish the procedure described in this subsection in such a manner as to ensure that taxpayers can claim all the tax credits possible up to the cumulative amount of tax credits available for the calendar year.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_713__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_713__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  A taxpayer who makes a contribution to an education assistance organization shall not designate the student who will receive a scholarship grant.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_713__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_713__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  The provisions of sections
+135.712 to 135.719
+and sections
+166.700 to 166.720
+shall be effective in any fiscal year immediately after any fiscal year in which the amount appropriated for pupil transportation pursuant to section
+163.161
+equals or exceeds forty percent of the projected amount necessary to fully fund transportation aid funding for fiscal year 2021.  If the amount appropriated for transportation pursuant to section
+163.161
+in any succeeding year falls below such amount, no additional scholarships for newly qualified students shall be awarded.
+­­--------
+(L. 2021 H.B. 349, A.L. 2024 H.B. 2287 merged with S.B. 727)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

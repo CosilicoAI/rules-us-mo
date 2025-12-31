@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.225">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.225" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.225" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.225" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.225/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.225/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.225/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.225/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.225</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_225">
+        <akn:num>135.225</akn:num>
+        <akn:heading>Section 135.225</akn:heading>
+        <akn:subsection eId="sec_135_225__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_225__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  The credits otherwise provided by sections
+135.100 to 135.150
+shall upon proper application be granted to any taxpayer who shall establish and operate a new business facility located within an enterprise zone, except one designated pursuant to subsection 5 of section
+135.230
+, on the same terms and conditions specified in those sections, except that:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The credit otherwise allowed for each new business facility employee employed within an enterprise zone shall be four hundred dollars;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>An additional credit of four hundred dollars shall be granted for each twelve-month period that a new business facility employee is a resident of an enterprise zone;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>An additional credit of four hundred dollars shall be granted for each twelve-month period that the person employed as a new business facility employee is a person who, at the time of such employment by the new business facility, met the criteria as set forth in section
+135.240
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The credit otherwise allowed for new business facility investment shall be equal to the sum of ten percent of the first ten thousand dollars of such qualifying investment, plus five percent of the next ninety thousand dollars of such qualifying investment, plus two percent of all remaining qualifying investments within an enterprise zone;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>In the case of a small corporation described in section
+143.471
+or a partnership, the credits granted by this section shall be apportioned in proportion to the share of ownership of the taxpayer on the last day of the taxpayer's tax period for which such tax credits are being claimed, to the following:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_225__subsec_1__subsec_5__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>The shareholders of a small corporation described in section
+143.471
+;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_225__subsec_1__subsec_5__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>The partners in a partnership;</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>In the case of financial institutions described pursuant to the provisions of
+chapter 148
+, the credits allowed in subdivisions</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of this subsection and the credit allowed in section
+135.235
+may be used to offset the tax imposed by
+chapter 148
+and, in the case of an insurance company exempt from the thirty-percent employee requirement of section
+135.230
+, any obligations imposed pursuant to section
+375.916
+subject to the same method of apportionment as prescribed for taxes imposed by
+chapter 143
+and as provided in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>*
+of section
+135.100
+and subsections 2 and 3 of section
+135.110
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>If a facility within an enterprise zone, which does not constitute a new business facility, is expanded or improved by the taxpayer within the enterprise zone, the expansion or improvement shall be considered a separate facility eligible for the credits allowed in this section and section
+135.235
+, and the exemption allowed in section
+135.220
+, if:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_225__subsec_1__subsec_7__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>The new business facility investment in the expansion or improvement during the tax period in which such credits and the exemption are claimed exceeds one hundred thousand dollars or, if less than one hundred thousand dollars, is twenty-five percent of the investment in the original facility prior to expansion or improvement; and</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_225__subsec_1__subsec_7__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>The expansion or improvement otherwise constitutes a new business facility; and</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_225__subsec_1__subsec_7__subsec_c">
+              <akn:num>(c)</akn:num>
+              <akn:content>
+                <akn:p>The number of new business facility employees engaged or maintained in employment at the expanded or improved facility for the taxable year for which the credit is claimed equals or exceeds two and the total number of employees at the facility after expansion or improvement is at least two greater than the total number of employees before expansion or improvement.  The taxpayer's investment in the expansion or improvement and in the original facility prior to expansion or improvement shall be determined in the manner provided in subdivision</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>*
+of section
+135.100
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_8">
+            <akn:num>(8)</akn:num>
+            <akn:content>
+              <akn:p>For the purpose of sections
+135.200 to 135.256
+, an office as defined in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>*
+of section
+135.100
+, when established, must create and maintain at least two new business facility employees as defined in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>*
+of section
+135.100
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_9">
+            <akn:num>(9)</akn:num>
+            <akn:content>
+              <akn:p>In the case where a person employed by the new business facility is a resident of the enterprise zone for less than a twelve-month period, or in the case where a person employed as a new business facility employee is a person who, at the time of such employment by the new business facility, met the criteria as set forth in section
+135.240
+, is employed for less than a twelve-month period, the credits allowed by subdivisions</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>of this subsection shall be determined by multiplying four hundred dollars by a fraction, the numerator of which is the number of calendar days during the taxpayer's tax year for which such credits are claimed, in which the person met the requirements prescribed in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>of this subsection, and the denominator of which is three hundred and sixty-five, except that such credit shall not exceed four hundred dollars per employee in any one taxable year;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>The deferment of tax credit authorized in section
+135.120
+shall not be available to taxpayers establishing a new business facility in an enterprise zone;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_11">
+            <akn:num>(11)</akn:num>
+            <akn:content>
+              <akn:p>The allowance for additional ten-year periods to certain new business facilities as prescribed in subsection 1 of section
+135.110
+shall not be available to taxpayers expanding a new business facility in an enterprise zone, except that any taxpayer who has been eligible to earn enterprise zone tax benefits for ten tax periods, or until the expiration of the fifteen-year period as prescribed in subsection 1 of section
+135.230
+, or for the maximum period otherwise allowed by law, may qualify for the tax credits allowed in section
+135.110
+if otherwise eligible, pursuant to the same terms and conditions prescribed in sections
+135.100 to 135.150
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_12">
+            <akn:num>(12)</akn:num>
+            <akn:content>
+              <akn:p>Taxpayers who establish a new business facility by operating a revenue-producing enterprise as defined in paragraph</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_225__subsec_1__subsec_12__subsec_d">
+              <akn:num>(d)</akn:num>
+              <akn:content>
+                <akn:p>of subdivision</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_1__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.200
+shall not be required to create and maintain new business facility employees.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_225__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_225__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  The tax credits described in subdivisions</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_225__subsec_2__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_225__subsec_2__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of subsection 1 of this section, the training credit allowed in section
+135.235
+, and the income exemption allowed in section
+135.220
+, shall be allowed to any taxpayer, under the same terms and conditions specified in such sections, who establishes a new business facility in an enterprise zone designated pursuant to subsection 5 of section
+135.230
+, except that all such tax benefits shall be removed not later than seven years after the enterprise zone is designated as such.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_225__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_225__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  Notwithstanding any provision of law to the contrary, any taxpayer who establishes a new business facility in an enterprise zone, may elect to forfeit the tax credits otherwise allowed in section
+135.235
+and this section and the exemptions otherwise allowed in sections
+135.215
+and
+135.220
+and the refund otherwise allowed in section
+135.245
+, and in lieu thereof, claim the tax credits allowed in section
+135.110
+, pursuant to the same terms and conditions prescribed in sections
+135.100 to 135.150
+.  To perfect the election, the taxpayer shall attach written notification of such election to the taxpayer's initial application for claiming tax credits.  The election shall be irreversible once perfected.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_225__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_225__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The right to receive the income exemption described in section
+135.220
+, the tax credits described in subsection 1 of this section and the training credit allowed in section
+135.235
+shall vest in the taxpayer upon commencement of operations of the revenue-producing enterprise, but such vested right shall be waived by the taxpayer for any given year in which the terms and conditions of sections
+135.100 to 135.268
+are not met.  Representations made by the department and relied upon in good faith by the taxpayer shall be binding upon the state of Missouri insofar as they are consistent with the provisions of this chapter.
+The provisions of this subsection
+shall apply to all revenue-producing enterprises which are eligible for incentives pursuant to this subsection and which commenced operation on or after January 1, 1996, to the extent such incentives do not exceed the fifteen-year limitation pursuant to subsection 1 of section
+135.230
+or the seven-year limitation pursuant to subsection 5 of section
+135.230
+.  The provisions of this subsection shall apply to all revenue-producing enterprises which are eligible for the incentives set forth in this subsection, and which began operation after January 1, 1996, to the extent such incentives do not exceed the fifteen-year limitation set forth in subsection 1 of section
+135.230
+, or the seven-year limit set forth in subsection 5 of section
+135.230
+.
+­­--------
+(L. 1982 H.B. 1713, et al. § 7, A.L. 1983 H.B. 559, A.L. 1986 S.B. 727, A.L. 1991 H.B. 294 &amp; 405, A.L. 1992 S.B. 661 &amp; 620, A.L. 1994 H.B. 1248 &amp; 1048, A.L. 1995 H.B. 414, A.L. 1996 H.B. 1237, A.L. 1997 2d Ex. Sess. S.B. 1, A.L. 1999 H.B. 701)
+*In 2019, statutory references changed in accordance with section 3.060 based on renumbering in section 135.100.
+CROSS REFERENCE:
+Tax Credit Accountability Act of 2004, additional requirements,
+135.800 to 135.830</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

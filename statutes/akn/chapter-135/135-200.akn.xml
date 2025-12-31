@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.200">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.200" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.200" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.200" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.200/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.200/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.200/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.200/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.200</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_200">
+        <akn:num>135.200</akn:num>
+        <akn:heading>to 135</akn:heading>
+        <akn:subsection eId="sec_135_200__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>"Department"
+, the department of economic development;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>"Director"
+, the director of the department of economic development;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>"Facility"
+, any building used as a revenue-producing enterprise located within an enterprise zone, including the land on which the facility is located and all machinery, equipment and other real and depreciable tangible personal property acquired for use at and located at or within such facility and used in connection with the operation of such facility;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>"Governing authority"
+, the body holding primary legislative authority over a county or incorporated municipality;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>"NAICS"
+, the North American Industrial Classification System as such classifications are defined in the 2007 edition of the North American Industrial Classification System;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>"New business facility"
+shall have the meaning defined in section
+135.100
+, except that the term
+"lease"
+as used therein shall not include the leasing of property defined in paragraph</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_200__subsec_6__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>of subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>of this section;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>"Revenue-producing enterprise"
+, means:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_a">
+            <akn:num>(a)</akn:num>
+            <akn:content>
+              <akn:p>Manufacturing activities classified as NAICS 31-33;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_b">
+            <akn:num>(b)</akn:num>
+            <akn:content>
+              <akn:p>Agricultural activities classified as NAICS 11;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_c">
+            <akn:num>(c)</akn:num>
+            <akn:content>
+              <akn:p>Rail transportation terminal activities classified as NAICS 482;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_d">
+            <akn:num>(d)</akn:num>
+            <akn:content>
+              <akn:p>Renting or leasing of residential property to low- and moderate-income persons as defined in federal law, 42 U.S.C. 5302</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_e">
+            <akn:num>(e)</akn:num>
+            <akn:content>
+              <akn:p>Motor freight transportation terminal activities classified as NAICS 484 and NAICS 4884;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_f">
+            <akn:num>(f)</akn:num>
+            <akn:content>
+              <akn:p>Public warehousing and storage activities classified as NAICS 493, miniwarehouse warehousing and warehousing self-storage;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_g">
+            <akn:num>(g)</akn:num>
+            <akn:content>
+              <akn:p>Water transportation terminal activities classified as NAICS 4832;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_h">
+            <akn:num>(h)</akn:num>
+            <akn:content>
+              <akn:p>Airports, flying fields, and airport terminal services classified as NAICS 481;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_i">
+            <akn:num>(i)</akn:num>
+            <akn:content>
+              <akn:p>Wholesale trade activities classified as NAICS 42;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_j">
+            <akn:num>(j)</akn:num>
+            <akn:content>
+              <akn:p>Insurance carriers activities classified as NAICS 524;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_k">
+            <akn:num>(k)</akn:num>
+            <akn:content>
+              <akn:p>Research and development activities classified as NAICS 5417;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_l">
+            <akn:num>(l)</akn:num>
+            <akn:content>
+              <akn:p>Farm implement dealer activities classified as NAICS 42382;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_m">
+            <akn:num>(m)</akn:num>
+            <akn:content>
+              <akn:p>Employment agency activities classified as NAICS 5613;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_n">
+            <akn:num>(n)</akn:num>
+            <akn:content>
+              <akn:p>Computer programming, data processing and other computer-related activities classified as NAICS 518;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_o">
+            <akn:num>(o)</akn:num>
+            <akn:content>
+              <akn:p>Health service activities classified as NAICS 621, 622, and 623;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_7__subsec_p">
+            <akn:num>(p)</akn:num>
+            <akn:content>
+              <akn:p>Interexchange
+telecommunications
+as defined in
+subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_25">
+          <akn:num>(25)</akn:num>
+          <akn:content>
+            <akn:p>*
+of section
+386.020
+or training activities conducted by an interexchange telecommunications company as defined in
+subdivision</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_24">
+          <akn:num>(24)</akn:num>
+          <akn:content>
+            <akn:p>*
+of section
+386.020
+;</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_200__subsec_24__subsec_q">
+            <akn:num>(q)</akn:num>
+            <akn:content>
+              <akn:p>Recycling activities classified as NAICS 42393;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_24__subsec_r">
+            <akn:num>(r)</akn:num>
+            <akn:content>
+              <akn:p>Banking activities classified as NAICS 522;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_24__subsec_s">
+            <akn:num>(s)</akn:num>
+            <akn:content>
+              <akn:p>Office activities as defined in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_9">
+          <akn:num>(9)</akn:num>
+          <akn:content>
+            <akn:p>of section
+135.100
+, notwithstanding NAICS classification;</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_200__subsec_9__subsec_t">
+            <akn:num>(t)</akn:num>
+            <akn:content>
+              <akn:p>Mining activities classified as NAICS 21;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_9__subsec_u">
+            <akn:num>(u)</akn:num>
+            <akn:content>
+              <akn:p>The administrative management of any of the foregoing activities; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_200__subsec_9__subsec_v">
+            <akn:num>(v)</akn:num>
+            <akn:content>
+              <akn:p>Any combination of any of the foregoing activities;</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_200__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>"Satellite zone"
+, a noncontiguous addition to an existing state-designated enterprise zone.
+­­--------
+(L. 1982 H.B. 1713, et al. § 2, A.L. 1983 H.B. 559, A.L. 1985 H.B. 416, A.L. 1986 S.B. 727, A.L. 1989 S.B. 59, A.L. 1991 H.B. 294 &amp; 405, A.L. 1994 H.B. 1248 &amp; 1048, A.L. 1995 H.B. 414, A.L. 1997 2d Ex. Sess. S.B. 1, A.L. 1998 H.B. 1656, A.L. 1999 H.B. 701, A.L. 2011 H.B. 315)
+*In 2019, statutory reference to subdivisions "(20)" and "(19)" changed to "(25)" and "(24)" in accordance with section 3.060 based on renumbering in section 386.020.</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

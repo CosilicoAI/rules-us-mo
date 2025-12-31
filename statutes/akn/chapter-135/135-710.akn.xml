@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.710">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.710" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.710" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.710" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.710/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.710/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.710/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.710/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.710</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_710">
+        <akn:num>135.710</akn:num>
+        <akn:heading>Section 135.710</akn:heading>
+        <akn:subsection eId="sec_135_710__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  As used in this section, the following terms mean:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_710__subsec_1__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Alternative fuel vehicle refueling property"
+, property in this state owned by an eligible applicant and used for storing alternative fuels and for dispensing such alternative fuels into fuel tanks of motor vehicles owned by such eligible applicant or private citizens;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Alternative fuels"
+, any motor fuel at least seventy percent of the volume of which consists of one or more of the following:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_710__subsec_1__subsec_2__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>Ethanol;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_710__subsec_1__subsec_2__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>Natural gas;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_710__subsec_1__subsec_2__subsec_c">
+              <akn:num>(c)</akn:num>
+              <akn:content>
+                <akn:p>Compressed natural gas, or CNG;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_710__subsec_1__subsec_2__subsec_d">
+              <akn:num>(d)</akn:num>
+              <akn:content>
+                <akn:p>Liquified natural gas, or LNG;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_710__subsec_1__subsec_2__subsec_e">
+              <akn:num>(e)</akn:num>
+              <akn:content>
+                <akn:p>Liquified petroleum gas, or LP gas, propane, or autogas;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_710__subsec_1__subsec_2__subsec_f">
+              <akn:num>(f)</akn:num>
+              <akn:content>
+                <akn:p>Any mixture of biodiesel and diesel fuel, without regard to any use of kerosene;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_710__subsec_1__subsec_2__subsec_g">
+              <akn:num>(g)</akn:num>
+              <akn:content>
+                <akn:p>Hydrogen;</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_1__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Department"
+, the department of economic development;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_1__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Electric vehicle recharging property"
+, property in this state owned by an eligible applicant and used for recharging electric motor vehicles owned by such eligible applicant or private citizens;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_1__subsec_5">
+            <akn:num>(5)</akn:num>
+            <akn:content>
+              <akn:p>"Eligible applicant"
+, a business entity or private citizen that is the owner of an electric vehicle recharging property or an alternative fuel vehicle refueling property;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_1__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>"Qualified Missouri contractor"
+, a contractor whose principal place of business is located in Missouri and has been located in Missouri for a period of not less than five years;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_1__subsec_7">
+            <akn:num>(7)</akn:num>
+            <akn:content>
+              <akn:p>"Qualified property"
+, an electric vehicle recharging property or an alternative fuel vehicle refueling property which, if constructed after August 28, 2014, was constructed with at least fifty-one percent of the costs being paid to qualified Missouri contractors for the:</akn:p>
+            </akn:content>
+            <akn:subsection eId="sec_135_710__subsec_1__subsec_7__subsec_a">
+              <akn:num>(a)</akn:num>
+              <akn:content>
+                <akn:p>Fabrication of premanufactured equipment or process piping used in the construction of such facility;</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_710__subsec_1__subsec_7__subsec_b">
+              <akn:num>(b)</akn:num>
+              <akn:content>
+                <akn:p>Construction of such facility; and</akn:p>
+              </akn:content>
+            </akn:subsection>
+            <akn:subsection eId="sec_135_710__subsec_1__subsec_7__subsec_c">
+              <akn:num>(c)</akn:num>
+              <akn:content>
+                <akn:p>General maintenance of such facility during the time period in which such facility receives any tax credit under this section.
+­­
+­
+If no qualified Missouri contractor is located within seventy-five miles of the property, the requirement that fifty-one percent of the costs shall be paid to qualified Missouri contractors shall not apply.</akn:p>
+              </akn:content>
+            </akn:subsection>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  For all tax years beginning on or after January 1, 2015, but before January 1, 2018, any eligible applicant who installs and operates a qualified property shall be allowed a credit against the tax otherwise due under
+chapter 143
+, excluding withholding tax imposed by sections
+143.191 to 143.265
+, or due under
+chapter 147
+or
+chapter 148
+for any tax year in which the applicant is constructing the qualified property.  The credit allowed in this section per eligible applicant who is a private citizen shall not exceed fifteen hundred dollars or per eligible applicant that is a business entity shall not exceed the lesser of twenty thousand dollars or twenty percent of the total costs directly associated with the purchase and installation of any alternative fuel storage and dispensing equipment or any recharging equipment on any qualified property, which shall not include the following:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_710__subsec_2__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Costs associated with the purchase of land upon which to place a qualified property;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_2__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>Costs associated with the purchase of an existing qualified property; or</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_2__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>Costs for the construction or purchase of any structure.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  Tax credits allowed by this section shall be claimed by the eligible applicant at the time such applicant files a return for the tax year in which the storage and dispensing or recharging facilities were placed in service at a qualified property, and shall be applied against the income tax liability imposed by
+chapter 143
+,
+chapter 147
+, or
+chapter 148
+after all other credits provided by law have been applied.  The cumulative amount of tax credits which may be claimed by eligible applicants claiming all credits authorized in this section shall not exceed one million dollars in any calendar year, subject to appropriations.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  If the amount of the tax credit exceeds the eligible applicant's tax liability, the difference shall not be refundable.  Any amount of credit that an eligible applicant is prohibited by this section from claiming in a taxable year may be carried forward to any of such applicant's two subsequent taxable years.  Tax credits allowed under this section may be assigned, transferred, sold, or otherwise conveyed.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  Any qualified property, for which an eligible applicant receives tax credits under this section, which ceases to sell alternative fuel or recharge electric vehicles shall cause the forfeiture of such eligible applicant's tax credits provided under this section for the taxable year in which the qualified property ceased to sell alternative fuel or recharge electric vehicles and for future taxable years with no recapture of tax credits obtained by an eligible applicant with respect to such applicant's tax years which ended before the sale of alternative fuel or recharging of electric vehicles ceased.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  The director of revenue shall establish the procedure by which the tax credits in this section may be claimed, and shall establish a procedure by which the cumulative amount of tax credits is apportioned equally among all eligible applicants claiming the credit.  To the maximum extent possible, the director of revenue shall establish the procedure described in this subsection in such a manner as to ensure that eligible applicants can claim all the tax credits possible up to the cumulative amount of tax credits available for the taxable year.  No eligible applicant claiming a tax credit under this section shall be liable for any interest or penalty for filing a tax return after the date fixed for filing such return as a result of the apportionment procedure under this subsection.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  Any eligible applicant desiring to claim a tax credit under this section shall submit the appropriate application for such credit with the department.  The application for a tax credit under this section shall include any information required by the department.  The department shall review the applications and certify to the department of revenue each eligible applicant that qualifies for the tax credit.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_8">
+          <akn:num>(8)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>8.  The department and the department of revenue may promulgate rules to implement the provisions of this section.  Any rule or portion of a rule, as that term is defined in section
+536.010
+, that is created under the authority delegated in this section shall become effective only if it complies with and is subject to all of the provisions of
+chapter 536
+and, if applicable, section
+536.028
+.  This section and
+chapter 536
+are nonseverable and if any of the powers vested with the general assembly pursuant to
+chapter 536
+to review, to delay the effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of rulemaking authority and any rule proposed or adopted after August 28, 2008, shall be invalid and void.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_9">
+          <akn:num>(9)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_710__subsec_9">
+          <akn:num>(9)</akn:num>
+          <akn:content>
+            <akn:p>9.  The provisions of section
+23.253
+of the Missouri sunset act notwithstanding:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_710__subsec_9__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The provisions of the new program authorized under this section shall automatically sunset three years after December 31, 2014, unless reauthorized by an act of the general assembly; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_9__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If such program is reauthorized, the program authorized under this section shall automatically sunset six years after the effective date of the reauthorization of this section; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_9__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>This section shall terminate on December thirty-first of the calendar year immediately following the calendar year in which the program authorized under this section is sunset; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_710__subsec_9__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The provisions of this subsection shall not be construed to limit or in any way impair the department's ability to redeem tax credits authorized on or before the date the program authorized under this section expires or a taxpayer's ability to redeem such tax credits.
+­­--------
+(L. 2008 S.B. 931, A.L. 2014 S.B. 729)
+Sunset date 12-31-17
+Termination date 12-31-18</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

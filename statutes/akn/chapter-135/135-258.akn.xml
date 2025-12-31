@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.258">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.258" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.258" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.258" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.258/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.258/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.258/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.258/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.258</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_258">
+        <akn:num>135.258</akn:num>
+        <akn:heading>Section 135.258</akn:heading>
+        <akn:subsection eId="sec_135_258__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_258__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  A taxpayer shall not be entitled to receive the tax credits, the exemption and the refunds respectively provided for in sections
+135.110
+,
+135.220
+,
+135.225
+, and
+135.245
+solely because the taxpayer has met and maintained the new investment and new job creation criteria required by sections
+135.100 through 135.256
+.  In addition to meeting these criteria, the taxpayer must be in receipt of an approved letter of intent as described in subsection 2 of this section.  The taxpayer shall make available such copies of the approved letter of intent, as may be required, to the department of revenue.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_258__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_258__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  In order to be eligible for the tax credits, exemption and refunds specified in subsection 1 of this section, a taxpayer must submit a letter of intent to the director of the department of economic development.  The letter of intent shall be completed on a form that shall be prepared by the department.  It need not contain an estimate of the amounts of the tax credits, exemption or refunds for which the taxpayer may become eligible.  The letter of intent shall be submitted to the director at least fifteen days prior to the commencement of commercial operations as defined in subdivision</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_258__subsec_2__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.100
+.  The director shall approve or deny the letter of intent and return such to the taxpayer within fifteen days of its receipt.
+­­--------
+(L. 1998 H.B. 1656)
+Effective 1-01-99
+CROSS REFERENCE:
+Tax Credit Accountability Act of 2004, additional requirements, 135.800 to 135.830</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

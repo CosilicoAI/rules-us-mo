@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.481">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.481" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.481" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.481" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.481/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.481/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.481/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.481/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.481</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_481">
+        <akn:num>135.481</akn:num>
+        <akn:heading>Section 135.481</akn:heading>
+        <akn:subsection eId="sec_135_481__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_481__subsec_1__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>Any taxpayer who incurs eligible costs for a new residence located in a distressed community or within a census block group as described in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_481__subsec_1__subsec_10">
+            <akn:num>(10)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.478
+, or for a multiple unit condominium described in subdivision</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_481__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>of this subsection, shall receive a tax credit equal to fifteen percent of such costs against his or her tax liability.  The tax credit shall not exceed forty thousand dollars per new residence in any ten-year period.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_481__subsec_1__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>For the purposes of this section, a
+"multiple unit condominium"
+is one that is intended to be owner occupied, which is constructed on property subject to an industrial development contract as defined in section
+100.310
+and which lies within an area with a city zoning classification of urban redevelopment district established after January 1, 2000, and before December 31, 2001, and which is constructed in connection with the qualified rehabilitation of a structure more than ninety years old eligible for the historic structures rehabilitation tax credit described in sections
+253.545 to 253.559
+, and is under way by January 1, 2000, and completed by January 1, 2002.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  Any taxpayer who incurs eligible costs for a new residence located within a census block as described in subdivision</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_481__subsec_2__subsec_6">
+            <akn:num>(6)</akn:num>
+            <akn:content>
+              <akn:p>of section
+135.478
+shall receive a tax credit equal to fifteen percent of such costs against his or her tax liability.  The tax credit shall not exceed twenty-five thousand dollars per new residence in any ten-year period.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  Any taxpayer who is not performing substantial rehabilitation and who incurs eligible costs for rehabilitation of an eligible residence or a qualifying residence shall receive a tax credit equal to twenty-five percent of such costs against his or her tax liability.  The minimum eligible costs for rehabilitation of an eligible residence shall be ten thousand dollars.  The minimum eligible costs for rehabilitation of a qualifying residence shall be five thousand dollars.  The tax credit shall not exceed twenty-five thousand dollars in any ten-year period.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  Any taxpayer who incurs eligible costs for substantial rehabilitation of a qualifying residence shall receive a tax credit equal to thirty-five percent of such costs against his or her tax liability.  The minimum eligible costs for substantial rehabilitation of a qualifying residence shall be ten thousand dollars.  The tax credit shall not exceed seventy thousand dollars in any ten-year period.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  A taxpayer shall be eligible to receive tax credits for new construction or rehabilitation pursuant to only one subsection of this section.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  No tax credit shall be issued pursuant to this section for any structure which is in violation of any municipal or county property, maintenance or zoning code.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_481__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  No tax credit shall be issued pursuant to sections
+135.475 to 135.487
+for the construction or rehabilitation of rental property.
+­­--------
+(L. 1999 S.B. 20 § 3, A.L. 2000 H.B. 1238)</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,224 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.315">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.315" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.315" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.315" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.315/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.315/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.315/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.315/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.315</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_315">
+        <akn:num>135.315</akn:num>
+        <akn:heading>Section 135.315</akn:heading>
+        <akn:subsection eId="sec_135_315__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  This section and section
+453.650
+shall be known and may be cited as the "Zero-Cost Adoption Fund Act".</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  As used in this section, the following terms mean:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_315__subsec_2__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>"Fund"
+, the zero-cost adoption fund established under section
+453.650
+;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_315__subsec_2__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>"Qualified taxpayer"
+, any individual, firm, partner in a firm, corporation, shareholder in an S corporation, or other entity doing business in this state, subject to the state income tax imposed under
+chapter 143
+, excluding the withholding tax imposed under sections
+143.191 to 143.265
+, who makes a qualifying contribution to the fund;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_315__subsec_2__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>"Qualifying contribution"
+, a donation of cash, including, but not limited to, checks drawn on a banking institution located in the continental United States in U.S. dollars, other cashier checks, or third-party checks exceeding ten thousand dollars; money orders; payroll deductions; and electronic fund transfers, for the purpose of claiming a tax credit under this section.  This term shall not include stocks, bonds, other marketable securities, or property;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_315__subsec_2__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>"Tax credit"
+, a credit against the tax otherwise due under
+chapter 143
+, excluding withholding tax imposed under sections
+143.191 to 143.265
+, and
+chapter 153
+.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  For all tax years beginning on or after January 1, 2026, a qualified taxpayer shall be allowed to claim a tax credit against the qualified taxpayer's state tax liability in an amount equal to one hundred percent of the qualified taxpayer's qualifying contribution to the fund made during the tax year for which the credit is claimed.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  The amount of the tax credit claimed shall not exceed fifty percent of the qualified taxpayer's state tax liability for the tax year for which the credit is claimed.  The state treasurer shall certify the tax credit amount to the qualified taxpayer.  A qualified taxpayer may carry the credit forward to any of such taxpayer's four subsequent tax years.  All tax credits authorized under this section shall not be transferred, sold, assigned, or otherwise conveyed, and are not refundable.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_315__subsec_5__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The cumulative amount of tax credits that may be allocated to all qualified taxpayers in the first year of the program shall not exceed five million dollars.  Such amount shall be annually adjusted by the department for inflation based on the Consumer Price Index for All Urban Consumers for the Midwest Region, as defined and officially recorded by the United States Department of Labor or its successor, and such annual increase shall cease when the cumulative amount of tax credits that may be allocated to all qualified taxpayers per calendar year reaches seventy-five million dollars.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_315__subsec_5__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>The department shall establish a procedure by which, from the beginning of the calendar year until August first, the cumulative amount of tax credits that may be allocated under the program shall be allowed on a first-come, first-served basis among all qualified taxpayers.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_315__subsec_5__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>If a qualified taxpayer fails to use all, or some percentage to be determined by the department, of the taxpayer's allocated tax credits during this period, the department may reallocate these unused tax credits to those qualified taxpayers that have used all, or some percentage to be determined by the department, of the taxpayers' allocated tax credits during this period.  The department may establish more than one period and reallocate more than once during each calendar year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_315__subsec_5__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>The department shall establish the procedure described in this subsection in such a manner as to ensure that qualified taxpayers can claim all the tax credits possible up to the cumulative amount of tax credits available for the calendar year.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  The state treasurer shall provide a standardized format for a receipt to be issued to a qualified taxpayer to indicate the value of a qualifying contribution received.  The department of revenue shall require a qualified taxpayer to provide a copy of this receipt if claiming the tax credit authorized by this section.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  The state treasurer and the department of revenue shall promulgate all necessary rules and regulations for the administration of this section including, but not limited to, rules relating to the verification of a taxpayer's qualifying contribution.  Any rule or portion of a rule, as that term is defined in section
+536.010
+, that is created under the authority delegated in this section shall become effective only if it complies with and is subject to all of the provisions of
+chapter 536
+and, if applicable, section
+536.028
+.  This section and
+chapter 536
+are nonseverable and if any of the powers vested with the general assembly pursuant to
+chapter 536
+to review, to delay the effective date, or to disapprove and annul a rule are subsequently held unconstitutional, then the grant of rulemaking authority and any rule proposed or adopted after August 28, 2025, shall be invalid and void.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_8">
+          <akn:num>(8)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_315__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>8.  Under section
+23.253
+of the Missouri sunset act:</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_315__subsec_8__subsec_1">
+            <akn:num>(1)</akn:num>
+            <akn:content>
+              <akn:p>The provisions of the new program authorized under this section shall automatically sunset on December thirty-first, six years after August 28, 2025, unless reauthorized by an act of the general assembly;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_315__subsec_8__subsec_2">
+            <akn:num>(2)</akn:num>
+            <akn:content>
+              <akn:p>If such program is reauthorized, the program authorized under this section shall automatically sunset on December thirty-first, twelve years after the effective date of the reauthorization of this section;</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_315__subsec_8__subsec_3">
+            <akn:num>(3)</akn:num>
+            <akn:content>
+              <akn:p>This section shall terminate on September first of the calendar year immediately following the calendar year in which the program authorized under this section is sunset; and</akn:p>
+            </akn:content>
+          </akn:subsection>
+          <akn:subsection eId="sec_135_315__subsec_8__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>Nothing in this subsection shall prevent a taxpayer from claiming a tax credit properly issued before this program was sunset in a tax year after the program is sunset.
+­­--------
+(L. 2025 H.B. 121)
+Sunset date 8-28-31
+Termination date 9-01-32</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.403">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.403" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.403" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.403" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.403/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.403/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.403/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.403/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.403</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_403">
+        <akn:num>135.403</akn:num>
+        <akn:heading>Section 135.403</akn:heading>
+        <akn:subsection eId="sec_135_403__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_403__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  Any investor who makes a qualified investment in a Missouri small business shall be entitled to receive a tax credit equal to forty percent of the amount of the investment or, in the case of a qualified investment in a Missouri small business in a distressed community as defined by section
+135.530
+, a credit equal to sixty percent of the amount of the investment, and any investor who makes a qualified investment in a community bank or a community development corporation shall be entitled to receive a tax credit equal to fifty percent of the amount of the investment if the investment is made in a community bank or community development corporation for direct investment.  The total amount of tax credits available for qualified investments in Missouri small businesses shall not exceed thirteen million dollars and at least four million dollars of the amount authorized by this section and certified by the department of economic development shall be for investment in Missouri small businesses in distressed communities.  Authorization for all or any part of this four-million-dollar amount shall in no way restrict the eligibility of Missouri small businesses in distressed communities, as defined in section
+135.530
+, for the remaining amounts authorized within this section.  No more than twenty percent of the tax credits available each year for investments in community banks or community development corporations for direct investment shall be certified for any one project, as defined in section
+135.400
+.  The tax credit shall be evidenced by a tax credit certificate in accordance with the provisions of sections
+135.400 to 135.430
+and may be used to satisfy the state tax liability of the owner of the certificate that becomes due in the tax year in which the qualified investment is made, or in any of the ten tax years thereafter.  When the qualified small business is in a distressed community, as defined in section
+135.530
+, the tax credit may also be used to satisfy the s</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_403__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_403__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  Five hundred thousand dollars in tax credits shall be available annually from the total amount of tax credits authorized by section
+32.110
+and subdivision</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_403__subsec_2__subsec_4">
+            <akn:num>(4)</akn:num>
+            <akn:content>
+              <akn:p>of subsection 2 of section
+32.115
+as a result of investments in community banks or community development corporations.  Aggregate investments eligible for tax credits in any one Missouri small business shall not be more than one million dollars.  Aggregate investments eligible for tax credits in any one Missouri small business shall not be less than five thousand dollars as of the date of issuance of the first tax credit certificate for investment in that business.</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_403__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_403__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  This section and section
+620.1039
+shall become effective January 1, 2001.
+­­--------
+(L. 1992 S.B. 661 &amp; 620 § 9 subsecs. 1, 2, A.L. 1994 H.B. 1547 &amp; 961, A.L. 1996 H.B. 1237, A.L. 1997 2d Ex. Sess. S.B. 1, A.L. 1998 H.B. 1656, A.L. 2000 S.B. 894 §§ 135.403, B)
+Effective 1-01-01</akn:p>
+          </akn:content>
+          <akn:subsection eId="sec_135_403__subsec_3__subsec_2002">
+            <akn:num>(2002)</akn:num>
+            <akn:content>
+              <akn:p>Senate Bill 894 provision declared unconstitutional as a violation of the clear title requirement of Art. III, Section 23. Home Builders of Greater St. Louis v. State, 75 S.W.3d 267 (Mo.banc).</akn:p>
+            </akn:content>
+          </akn:subsection>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

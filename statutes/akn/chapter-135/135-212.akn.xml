@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.212">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.212" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.212" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.212" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.212/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.212/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.212/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.212/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.212</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_212">
+        <akn:num>135.212</akn:num>
+        <akn:heading>Section 135.212</akn:heading>
+        <akn:subsection eId="sec_135_212__subsec_1">
+          <akn:num>(1)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>1.  In addition to any other enterprise zones authorized in this chapter, the department of economic development shall designate one enterprise zone in any county of the third classification without a township form of government and with more than thirty-two thousand five hundred but less than thirty-two thousand six hundred inhabitants.  Such enterprise zone designations shall have the same boundaries as such county, and shall only be made if the area to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_2">
+          <akn:num>(2)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>2.  In addition to any other enterprise zones authorized in this chapter, the department of economic development shall designate one enterprise zone that shall have boundaries that are the same as any city of the fourth classification with more than one thousand eight hundred but less than one thousand nine hundred inhabitants and located in three counties.  Such enterprise zone designation shall only be made if the area that is to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_3">
+          <akn:num>(3)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>3.  In addition to any other enterprise zones authorized in this chapter, the department of economic development shall designate one enterprise zone that shall have boundaries that are the same as any city of the fourth classification with more than one thousand but less than one thousand one hundred inhabitants and located in any county of the third classification without a township form of government and with more than forty-one thousand one hundred but less than forty-one thousand two hundred inhabitants.  Such enterprise zone designation shall only be made if the area that is to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_4">
+          <akn:num>(4)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>4.  In addition to any other enterprise zones authorized pursuant to this chapter, the department of economic development shall designate one enterprise zone that shall have boundaries that are the same as any county of the third classification without a township form of government and with more than thirteen thousand seventy-five but less than thirteen thousand one hundred seventy-five inhabitants.  Such enterprise zone designation shall only be made if the area that is to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_5">
+          <akn:num>(5)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_5">
+          <akn:num>(5)</akn:num>
+          <akn:content>
+            <akn:p>5.  In addition to any other enterprise zones authorized in this chapter, the department of economic development shall designate one enterprise zone in the portions of any city of the fourth classification with more than three thousand eight hundred but less than four thousand inhabitants and located in more than one county and any home rule city with more than one hundred thirteen thousand two hundred but less than one hundred thirteen thousand three hundred inhabitants which include a political subdivision that receives a portion of its funding from section
+163.031
+and is located in part in any home rule city with more than four hundred thousand inhabitants and located in more than one county.  Such enterprise zone shall only be made if the area to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_6">
+          <akn:num>(6)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_6">
+          <akn:num>(6)</akn:num>
+          <akn:content>
+            <akn:p>6.  In addition to any other enterprise zones authorized pursuant to this chapter, the department of economic development shall designate one enterprise zone that shall have boundaries that are the same as any city of the fourth classification with more than four thousand three hundred but less than four thousand five hundred located in a county of the first classification with more than ninety-three thousand eight hundred but less than ninety-three thousand nine hundred inhabitants.  Such enterprise zone designation shall only be made if the area that is to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_7">
+          <akn:num>(7)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_7">
+          <akn:num>(7)</akn:num>
+          <akn:content>
+            <akn:p>7.  In addition to any other enterprise zones authorized pursuant to this chapter, the department of economic development shall designate one enterprise zone that shall have boundaries that are the same as any city of the fourth classification with more than five thousand four hundred but less than five thousand five hundred inhabitants and located in more than one county.  Such enterprise zone designation shall only be made if the area that is to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_8">
+          <akn:num>(8)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_8">
+          <akn:num>(8)</akn:num>
+          <akn:content>
+            <akn:p>8.  In addition to any other enterprise zones authorized in this chapter, the department of economic development shall designate one enterprise zone that shall be located partially in any city of the fourth classification with more than twelve thousand one hundred but less than twelve thousand four hundred inhabitants and partially in any city of the fourth classification with more than nine thousand six hundred but less than nine thousand seven hundred inhabitants and shall include all area in between any city of the fourth classification with more than twelve thousand one hundred but less than twelve thousand four hundred inhabitants and any city of the fourth classification with more than nine thousand six hundred but less than nine thousand seven hundred inhabitants with specific boundaries to be determined by the department of economic development in conjunction with the governing authority of the county.  Such enterprise zone designation shall only be made if the area that is to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_9">
+          <akn:num>(9)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_9">
+          <akn:num>(9)</akn:num>
+          <akn:content>
+            <akn:p>9.  In addition to any other enterprise zones authorized in this chapter, the department of economic development shall designate one enterprise zone within any county of the third classification without a township form of government and with more than thirty-one thousand but less than thirty-one thousand one hundred inhabitants.  Such enterprise zone designation shall only be made if the area that is to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_10">
+          <akn:num>(10)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_10">
+          <akn:num>(10)</akn:num>
+          <akn:content>
+            <akn:p>10.  Notwithstanding the provisions of section
+135.230
+to the contrary, any enterprise zone designated in any county of the third classification with a township form of government and with more than thirteen thousand seven hundred but less than thirteen thousand eight hundred inhabitants or designated in any county of the third classification without a township form of government and with more than fifteen thousand seven hundred but less than fifteen thousand eight hundred inhabitants shall not expire before December 31, 2015.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_11">
+          <akn:num>(11)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_11">
+          <akn:num>(11)</akn:num>
+          <akn:content>
+            <akn:p>11.  In addition to the number of enterprise zones authorized by the provisions of sections
+135.200 to 135.270
+, the department of economic development shall designate one such zone in every county of the third classification without a township form of government and with more than six thousand seven hundred fifty but less than six thousand eight hundred fifty inhabitants.  Such designation shall only be made if the area in the county which is to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_12">
+          <akn:num>(12)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_12">
+          <akn:num>(12)</akn:num>
+          <akn:content>
+            <akn:p>12.  In addition to the number of enterprise zones authorized by the provisions of this chapter the department of economic development shall designate one such zone in every city of the fourth classification with more than thirteen thousand six hundred but less than thirteen thousand eight hundred inhabitants which shall have boundaries abutting an international airport and an interstate highway with specific boundaries to be determined by the department of economic development in conjunction with the governing authority of the city.  Such designation shall only be made if the area in the city which is to be included in the enterprise zone meets all the requirements of section
+135.205
+.</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_13">
+          <akn:num>(13)</akn:num>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_212__subsec_13">
+          <akn:num>(13)</akn:num>
+          <akn:content>
+            <akn:p>13.  In addition to any other enterprise zones authorized in this chapter, the department of economic development shall designate one such zone in a city of the fourth classification with more than thirty thousand three hundred but less than thirty thousand seven hundred inhabitants.  Such enterprise zone shall only be made if the area to be included in the enterprise zone meets all the requirements of section
+135.205
+.
+­­--------
+(L. 2004 S.B. 1155)
+*Section includes Laclede County, Richland, Crocker, Douglas County, Sugar Creek, Independence, St. Clair, Pacific, Nixa, Ozark, the area between Nixa and Ozark, Webster County, Linn County, Macon County, Shelby County, St. Ann, and Raytown.</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

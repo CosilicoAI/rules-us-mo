@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.300">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.300" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.300" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.300" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.300/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.300/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.300/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.300/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.300</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_300">
+        <akn:num>135.300</akn:num>
+        <akn:heading>to 135</akn:heading>
+        <akn:subsection eId="sec_135_300__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>"Missouri forestry industry residue"
+, any residue that results from normal timber harvest or production to include slash, sawdust, shavings, edgings, slabs, leaves, bark, and timber thinnings from timber stand improvements;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_300__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>"Processed wood products"
+, wood pellets, cubes, flour, or any product that results from thermal, chemical, or mechanical processes that sufficiently alter the wood residue to be used as an energy source.  Hogged wood and chipped wood do not qualify as processed wood energy resources under sections
+135.300 to 135.311
+;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_300__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>"Wood energy producer"
+, any person, firm or corporation who engages in the business of producing processed wood products, to be used as an energy source, from Missouri forest industry residues;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_300__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>"Wood energy producing facility"
+, a Missouri facility using Missouri forest industry residue to produce processed wood products.
+­­--------
+(L. 1985 H.B. 831 § 1, A.L. 1996 H.B. 1237)
+Effective 1-01-97</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

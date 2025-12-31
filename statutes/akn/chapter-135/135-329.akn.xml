@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.329">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.329" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.329" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.329" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.329/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.329/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.329/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.329/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.329</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_329">
+        <akn:num>135.329</akn:num>
+        <akn:heading>Section 135.329</akn:heading>
+        <akn:content>
+          <akn:p>135.329.
+Credit not allowed, when.  —
+No credit shall be allowable for that portion of the nonrecurring adoption expenses for which a credit is allowable and taken under any similar provision of federal, state, or local law.  Credit may be taken up to the amount allowable under section
+135.327
+for that portion of the nonrecurring adoption expenses which exceed the credit taken under such other provision of federal, state or local law.  If there is a deduction allowable and taken under any other provision of federal, state or local law which is similar to the credit allowable under section
+135.327
+, the credit allowable for nonrecurring adoption expenses shall be reduced by the amount of the decrease in the tax liability resulting from taking such deduction.  No credit shall be allowable for that portion of the nonrecurring adoption expenses paid from any funds received under any federal, state, or local program.
+­­--------
+(L. 1987 S.B. 402 § 4, A.L. 1995 H.B. 414)
+Effective 1-01-96</akn:p>
+        </akn:content>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>

@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<akn:akomaNtoso xmlns:akn="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <akn:act name="section-135.414">
+    <akn:meta>
+      <akn:identification source="#cosilico">
+        <akn:FRBRWork>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.414" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.414" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#missouri-legislature" />
+          <akn:FRBRcountry value="us-mo" />
+          <akn:FRBRnumber value="135.414" />
+          <akn:FRBRname value="Missouri Revised Statutes" />
+        </akn:FRBRWork>
+        <akn:FRBRExpression>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.414/eng@2025-12-31" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.414/eng@2025-12-31" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+          <akn:FRBRlanguage language="eng" />
+        </akn:FRBRExpression>
+        <akn:FRBRManifestation>
+          <akn:FRBRthis value="/akn/us-mo/act/mrs/section-135.414/eng@2025-12-31/main" />
+          <akn:FRBRuri value="/akn/us-mo/act/mrs/section-135.414/eng@2025-12-31/main" />
+          <akn:FRBRdate date="2025-12-31" name="generation" />
+          <akn:FRBRauthor href="#cosilico" />
+        </akn:FRBRManifestation>
+      </akn:identification>
+      <akn:references source="#cosilico">
+        <akn:TLCOrganization eId="missouri-legislature" href="https://revisor.mo.gov" showAs="Missouri General Assembly" />
+        <akn:TLCOrganization eId="cosilico" href="https://cosilico.ai" showAs="Cosilico" />
+      </akn:references>
+      <akn:notes>
+        <akn:note eId="source">
+          <akn:p>Source: https://revisor.mo.gov/main/OneSection.aspx?section=135.414</akn:p>
+        </akn:note>
+      </akn:notes>
+    </akn:meta>
+    <akn:body>
+      <akn:section eId="sec_135_414">
+        <akn:num>135.414</akn:num>
+        <akn:heading>Section 135.414</akn:heading>
+        <akn:subsection eId="sec_135_414__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>The principal owner;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_414__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>The spouse of the principal owner;</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_414__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>Any person related to the person specified in subdivision</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_414__subsec_1">
+          <akn:num>(1)</akn:num>
+          <akn:content>
+            <akn:p>or</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_414__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>of this section within the third degree of consanguinity or affinity; or</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_414__subsec_4">
+          <akn:num>(4)</akn:num>
+          <akn:content>
+            <akn:p>Any corporation, partnership, trust or other entity which is controlled, directly or indirectly, by any of the persons specified in subdivision (1),</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_414__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>or</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_414__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>of this section where fifty percent or more of the equity interest in any such entity is owned, directly or indirectly, by any of the persons specified in subdivision (1),</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_414__subsec_2">
+          <akn:num>(2)</akn:num>
+          <akn:content>
+            <akn:p>or</akn:p>
+          </akn:content>
+        </akn:subsection>
+        <akn:subsection eId="sec_135_414__subsec_3">
+          <akn:num>(3)</akn:num>
+          <akn:content>
+            <akn:p>of this section.
+­­--------
+(L. 1992 S.B. 661 &amp; 620 § 9 subsec. 6, A.L. 1994 H.B. 1547 &amp; 961, A.L. 1995 H.B. 414)
+Effective 1-01-96</akn:p>
+          </akn:content>
+        </akn:subsection>
+      </akn:section>
+    </akn:body>
+  </akn:act>
+</akn:akomaNtoso>
